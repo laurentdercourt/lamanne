@@ -1,0 +1,45 @@
+body {
+   background-color: #1c8598;
+}
+
+.rubrique {
+   color: white;
+   font-family: 'Roboto', sans-serif;
+   font-weight: 300;
+   letter-spacing: 1px;
+}
+
+.lien:visited {
+   text-decoration: none;
+   color: white;
+   pointer-events: visible;
+}
+
+.menu {
+   margin-top: 60px;
+}
+
+.ligne {
+   text-align: center;
+   height: 20px;
+   border-right: 1px solid white;
+}
+
+.taille30 {
+   font-size: 30px;
+   padding-top: 43px;
+   padding-left: 30px;
+}
+
+.accroche{
+   padding-top:10em;
+   padding-left:30px;
+}
+
+.accroche-h1 {
+   color: #ffc43d;
+   font-weight:700;
+   letter-spacing: .8px;
+   font-size:4.5em;
+   line-height: 75px;
+}
