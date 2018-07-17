@@ -1,0 +1,112 @@
+body {
+   background-color: #1c8598;
+}
+
+.rubrique {
+   color: white;
+   font-family: 'Roboto', sans-serif;
+   font-weight: 300;
+   letter-spacing: 1px;
+}
+
+.lien:hover {
+   text-decoration: none;
+}
+
+.lien:visited {
+   text-decoration: none;
+   color: white;
+}
+
+.menu {
+   margin-top: 60px;
+}
+
+.ligne {
+   text-align: center;
+   height: 20px;
+   border-right: 1px solid white;
+}
+
+.taille30 {
+   font-size: 30px;
+   padding-top: 43px;
+   padding-left: 30px;
+}
+
+.accroche {
+   padding-top: 4em;
+   padding-left: 30px;
+}
+
+.accroche-h1 {
+   color: #ffc43d;
+   font-weight: 700;
+   letter-spacing: .8px;
+   font-size: 4.5em;
+   line-height: 75px;
+   text-align: right;
+}
+
+.textebody {
+   padding-left: 30px;
+   color: white;
+   font-size: 25px;
+   text-align: right;
+   font-weight: 100;
+   letter-spacing: 1.2px;
+   line-height: 30px;
+}
+
+.lienbis {
+   text-align: center;
+   padding-top: 60px;
+   color: white;
+   font-weight: 100;
+   letter-spacing: 1.2px;
+   line-height: 30px;
+   font-size: 17px;
+}
+
+.photomenu {
+   margin-top: 40px;
+   height: 550px;
+   padding-top: 18% !important;
+   margin: 0;
+}
+
+#photomenu1 {
+   background-image: url("../img/touristra-la-manne-village-vacances.jpg");
+   background-size: cover;
+   background-position: center;
+}
+
+#photomenu2 {
+   background-image: url("../img/village-vacances-la-manne-vacances-en-famille.jpg");
+   background-size: cover;
+   background-position: center;
+}
+
+#photomenu3 {
+   background-image: url("../img/village-vacacances-la-manne-gite.jpg");
+   background-size: cover;
+   background-position: center;
+}
+
+#photomenu4 {
+   background-image: url("../img/village-vacances-la-manne-vacances-en-famille.jpg");
+   background-size: cover;
+   background-position: center;
+}
+
+#photomenu5 {
+   background-image: url("../img/village-vacances-la-manne-vacances-en-famille.jpg");
+   background-size: cover;
+   background-position: center;
+}
+
+#photomenu6 {
+   background-image: url("../img/village-vacances-la-manne-vacances-en-famille.jpg");
+   background-size: cover;
+   background-position: center;
+}
