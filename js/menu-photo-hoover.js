@@ -2,7 +2,7 @@ $("#photomenu1").hover(function () {
    $(this).css({
       'background-image': 'url(img/red.jpeg)',
 
-   }).html('<a class="lienphotomenu" href="#">Découvrez votre village vacances</a>');
+   }).html('<a class="lienphotomenu" href="presentation-village-vacances.php">Découvrez votre village vacances</a>');
 }, function () {
    $(this).css('background-image','url(img/touristra-la-manne-village-vacances.jpg)').html("");
 });

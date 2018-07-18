@@ -39,7 +39,6 @@
                               <a class="rubrique lien" href="#">Actualités</a>
                         </div>
                         <div class="col-lg-1 col-md-4 col-4 menu ligne">
-                              <a class="lien circle" href="https://www.facebook.com" target="_blank">
                                     <a href="#" class="rubrique lien">
                                           <i class="fab fa-facebook-square"></i>
                                     </a>
@@ -68,7 +67,13 @@
 
             <div class="row">
                   <div class="col-12 col-md-9">
-                        <h2 class="textebody">Le <strong>village vacances La Manne</strong> est situé à Bormes Les Mimosas dans le département du <strong>Var</strong> dans la belle <strong>Provence</strong>. Le <strong>village club</strong> est blotti dans la pinède, dans la nature, sous le soleil. Votre <strong>location de vacances</strong> et les équipes du village  vous attendent pour vous faire passer des moments d’exception dont les souvenirs se rappelleront à vous après votre départ.</h2>
+                        <h2 class="textebody">Le
+                              <strong>village vacances La Manne</strong> est situé à Bormes Les Mimosas dans le département du
+                              <strong>Var</strong> dans la belle
+                              <strong>Provence</strong>. Le
+                              <strong>village club</strong> est blotti dans la pinède, dans la nature, sous le soleil. Votre
+                              <strong>location de vacances</strong> et les équipes du village vous attendent pour vous faire passer
+                              des moments d’exception dont les souvenirs se rappelleront à vous après votre départ.</h2>
                   </div>
                   <div class="col-md-3">
                   </div>
@@ -117,6 +122,12 @@
 
 
       </div>
+
+      <!-- FOOTER -->
+
+            <?php include "footer/footer.html";?>
+
+      <!-- Footer -->
 
 
       <!-- SCRIPT -->
