@@ -14,7 +14,7 @@ body {
    margin-left: 35px;
    height: 100px;
    background-color: white;
-   margin-top: 247px;
+   margin-top: 248px;
    text-align: center;
    font-size: 35px;
    padding: 27px 0px 0px 0px;
@@ -51,12 +51,29 @@ body {
 }
 
 .photo-body {
-   padding: 3px 0px 0px 0px;
-   margin-bottom: 3px;
+   padding: 2px 0px 0px 0px;
+   margin-bottom: 2px;
 }
 
 .padding0 {
    padding: 0;
+}
+
+.bulletpoint{
+   list-style-type: disc;
+}
+
+
+.liensousmenu:hover {
+   text-decoration: none !important;
+   color:#7bdff2!important;
+}
+.liensousmenu:visited{
+   color:black;
+}
+
+.padding20{
+   padding-top:20px;
 }
 
 @media (max-width:905px) {
@@ -78,10 +95,24 @@ body {
 @media (max-width:479px) {
    .phototitre-titre {
       padding: 10px 0px 0px 0px;
-      margin-top: 135px;
+      margin-top: 163px;
       line-height: 28px;
    }
    .phototitre-h2 {
       font-size: 35px;
+   }
+}
+
+@media (min-width:1638px){
+   .body{
+      padding-left:130px;
+      padding-right:130px;
+   }
+}
+
+@media (min-width:2000px){
+   .body{
+      padding-left:200px;
+      padding-right:200px;
    }
 }
