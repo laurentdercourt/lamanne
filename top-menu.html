@@ -1,0 +1,103 @@
+<!-- <!doctype <!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8" />
+   <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
+   <!-- <title>Page Title</title> -->
+   <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+
+   <!-- mon CSS -->
+
+   <!-- typo roboto avec ttes les graisses -->
+   <link href="https://fonts.googleapis.com/css?family=Roboto:100,400,700,900" rel="stylesheet"> 
+   <!-- icone font awesome -->
+   <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous"> -->
+<!-- </head> -->
+
+
+   <div class="top-menu">
+      <p class="rubrique" >accueil</p>
+      <hr class="hr-top-menu">
+      <p class="rubrique">actualités</p>
+      <hr class="hr-top-menu">
+      <p class="rubrique">contacts</p>
+      <hr class="hr-top-menu">
+      <p class="rubrique" >réservez</p>
+      <hr class="hr-top-menu">
+      <a class="lien circle" href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-square"></i></a>
+      <i class="fab fa-twitter-square"></i>
+      <i class="fab fa-youtube-square"></i>
+   </div>
+
+<style>
+  /* 
+appel typo : font-family: 'Roboto', sans-serif;
+regular :
+
+*/
+
+.top-menu{
+   z-index: 1;
+   display: block;
+   position:fixed;
+   right : 30px;
+   background-color: #ef476f;
+   color:white;
+   font-family: 'Roboto', sans-serif;
+   font-size:15px;
+   font-weight: 300;
+   width:90px;
+   height: 117px;
+   text-align:center;
+   top:0px;
+   margin:0;
+   padding-top: 13px;
+   line-height: 10px !important;
+   letter-spacing: 1px;
+   box-shadow: 1px 1px 12px #ef476f;
+}
+
+.hr-top-menu {
+   z-index: 1;
+   width: 85px;
+   text-align:center;
+   background-color:white;
+   height:1px;
+   border: none;
+   margin-top:5px;
+   margin-bottom: 5px;
+}
+
+.rubrique{
+   z-index: 1;
+   margin:0;
+   padding:0;
+}
+
+
+.lien:visited {
+   text-decoration: none;
+   color:white;
+   pointer-events: visible;
+}
+
+.circle{
+   border-radius: 100px;
+}
+
+/* MEDIA QUERIES */
+@media (max-width: 425px) {
+
+   .top-menu{
+      width:100%;
+      position: fixed;
+      right:0;
+      position: relative;
+   }
+
+
+
+
+}
+
+</style>

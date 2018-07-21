@@ -14,7 +14,7 @@
 	   crossorigin="anonymous">
 	<!-- mon CSS -->
 	<link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
-	<link rel="stylesheet" type="text/css" media="screen" href="css/presentation-v-c.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="css/presentation-v-v.css" />
 	<!-- typo roboto avec ttes les graisses -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:100,400,700,900" rel="stylesheet">
 	<!-- icone font awesome -->
@@ -22,70 +22,83 @@
 	   crossorigin="anonymous">
 </head>
 
+<!-- SOUS MENU -->
+<?php include "top-menu.html";?>
+<!-- END -->
+
+
 <body>
+
 
 	<div class="container-fluid">
 
 		<div class="row">
 
 			<!-- image de fond col gauche  class="image" -->
-			<div class="col-md-8 image">
+			<div class="col-8 image">
 
 				<!-- votre hébergement -->
 				<div class="row">
-					<div class="col-md-7"> 
+					<div class="col-12 col-md-6 col-lg-7">
 					</div>
-					<div class="col-md-5">
+					<div class="col-12 col-md-6 col-lg-5 white css-hebergement">
+						<a href="presentation-hebergement.php" class="lrouge"><i class="fas fa-bed"></i> hébergement</a>
 					</div>
 				</div>
 
 				<!-- l'espace restauration -->
 				<div class="row">
-					<div class="col-md-7">
+					<div class="col-12 col-md-6 ">
 					</div>
-					<div class="col-md-5">
+					<div class="col-12 col-md-6 white css-menu"><i class="fas fa-utensils"></i> restaurant
 					</div>
 				</div>
 
 				<!-- les piscines -->
 				<div class="row">
-					<div class="col-md-7">
+					<div class="col-12 col-md-6 col-lg-7">
 					</div>
-					<div class="col-md-5">
+					<div class="col-12 col-md-6 col-lg-5 white css-menu"><i class="fas fa-umbrella-beach"></i> piscines
 					</div>
 				</div>
 
 				<!-- la place du village -->
 				<div class="row">
-					<div class="col-md-7">
+					<div class="col-12 col-md-6 col-lg-7">
 					</div>
-					<div class="col-md-5">
+					<div class="col-12 col-md-6 col-lg-5 white css-menu"><i class="fas fa-cocktail"></i> place du village
 					</div>
 				</div>
 
 				<!-- le parc -->
 				<div class="row">
-					<div class="col-md-7">
+					<div class="col-12 col-md-6 col-lg-7">
 					</div>
-					<div class="col-md-5">
+					<div class="col-12 col-md-6 col-lg-5 white css-menu"><i class="fab fa-pagelines"></i> parc
 					</div>
 				</div>
 			</div>
 
 			<!-- col droite -->
-			<div class="col-md-4">
+			<div class="col-4">
 
 				<!-- photo hébergement -->
 				<div class="row">
-					<div class="col-md-10">
+					<div class="col-12 col-md-7 css-photo-hebergement">
+						<a href="presentation-hebergement.php">
+							<img class="img-responsive imgopacity" src="img/village-vacances-location-vacances-hebergement-la-amnne.jpg">
+						</a>
 					</div>
-					<div class="col-md-2">
+					<div class="col-0 col-md-5">
 					</div>
 				</div>
 
 				<!-- photo espace resto -->
 				<div class="row">
-					<div class="col-md-7">
+					<div class="col-12 col-md-7 css-photo-menu">
+						<a href="#">
+							<img class="img-responsive imgopacity" src="img/village-vacances-touristra-location-var-restaurant.jpg">
+						</a>
 					</div>
 					<div class="col-md-5">
 					</div>
@@ -93,7 +106,10 @@
 
 				<!-- photo piscines -->
 				<div class="row">
-					<div class="col-md-7">
+					<div class="col-12 col-md-7 css-photo-menu">
+						<a href="#">
+							<img class="img-responsive imgopacity" src="img/village-vacances-la-manne-var-piscine-location.jpg">
+						</a>
 					</div>
 					<div class="col-md-5">
 					</div>
@@ -101,7 +117,10 @@
 
 				<!-- photo place du village -->
 				<div class="row">
-					<div class="col-md-7">
+					<div class="col-12 col-md-7 css-photo-menu">
+						<a href="#">
+							<img class="img-responsive imgopacity" src="img/village-vacances-touristra-la-manne-location-farniente.jpg">
+						</a>
 					</div>
 					<div class="col-md-5">
 					</div>
@@ -109,20 +128,19 @@
 
 				<!-- photo parc -->
 				<div class="row">
-					<div class="col-md-7">
+					<div class="col-12 col-md-7 css-photo-menu">
+						<a href="#">
+							<img class="img-responsive imgopacity" src="img/village-vacances-la-manne-nature-var-parc.jpg">
+						</a>
 					</div>
 					<div class="col-md-5">
 					</div>
 				</div>
 			</div>
 		</div>
-		
+
 	</div>
 
-
-	<!-- FOOTER -->
-	<?php include "footer/footer.html";?>
-	<!-- Footer -->
 
 
 	<!-- SCRIPT -->
@@ -138,6 +156,11 @@
 	<!--  -->
 
 </body>
+
+
+<!-- FOOTER -->
+<?php include "footer/footer.html";?>
+<!-- Footer -->
 
 
 </html>

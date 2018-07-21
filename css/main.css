@@ -19,6 +19,15 @@ body {
    color: white;
 }
 
+.lrouge:visited {
+   color:white !important;
+}
+
+.lrouge:hover{
+   text-decoration: none;
+   color:#ffc43d !important;
+}
+
 .menu {
    margin-top: 60px;
 }

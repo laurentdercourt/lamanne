@@ -2,32 +2,31 @@
 appel typo : font-family: 'Roboto', sans-serif;
 regular :
 
-
-
-
 */
 
 .top-menu{
+   z-index: 1;
    display: block;
    position:fixed;
    right : 39px;
    background-color: #7BDFF2;
    color:white;
    font-family: 'Roboto', sans-serif;
-   font-size:25px;
+   font-size:15px;
    font-weight: 300;
-   width:156px;
-   height: 200px;
+   width:90px;
+   height: 123px;
    text-align:center;
    top:0px;
    margin:0;
    padding-top: 15px;
-   line-height: 15px;
+   line-height: 10px;
    letter-spacing: 1px;
 }
 
 .hr-top-menu {
-   width: 130px;
+   z-index: 1;
+   width: 85px;
    text-align:center;
    background-color:white;
    height:1px;
@@ -35,6 +34,7 @@ regular :
 }
 
 .rubrique{
+   z-index: 1;
    margin:0;
    padding:0;
 }
