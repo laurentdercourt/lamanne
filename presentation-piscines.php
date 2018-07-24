@@ -14,7 +14,8 @@
 	   crossorigin="anonymous">
 	<!-- mon CSS -->
 	<link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
-	<link rel="stylesheet" type="text/css" media="screen" href="css/presentation-village.css" />
+   <link rel="stylesheet" type="text/css" media="screen" href="css/presentation-village.css" />
+   <link rel="stylesheet" type="text/css" media="screen" href="css/presentation-piscine.css" />
 	<!-- typo roboto avec ttes les graisses -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:100,400,700,900" rel="stylesheet">
 	<!-- icone font awesome -->
@@ -33,12 +34,12 @@
 		<div class="row">
 			<!-- photo plein pot  -->
 			<div class="col-md-12 phototitre padding0">
-				<h2 class="phototitre-h2">Hébergement : les chambres</h2>
+				<h2 class="phototitre-h2">Les piscines</h2>
 				<h1 class="phototitre-h1">Location vacances, village vacances au soleil | Var Bormes Les Mimosas La Manne</h1>
 				<div class="row">
 					<!--  titre photo -->
 					<div class="col-6 col-md-3 phototitre-titre">
-						<h3>Votre chambre</h3>
+						<h3 class="taille-typo-h3">"Je veux une piscine"</h3>
 					</div>
 					<div class="col-6 col-md-9">
 					</div>
@@ -50,31 +51,13 @@
 		<div class="row">
 			<!-- body -->
 			<div class="col-sm-12 col-md-6 body-paragraphe">
-				<p>
-					</br>Bienvenue dans votre domaine privé,
-					</<strong>en pleine nature, au calme !</strong></br> Blottie dans les lauriers roses, à l'abri du soleil du Var,
-					<strong>votre chambre sera le lieu dédié à votre repos</strong> et votre terrasse privative sera celui de la fin de journée,
-					juste après la plage, au moment où le sable vous gratte encore un peu les doigts de pied.</br>Un peu à la manière d'une
-					loggia, originale et dépaysante, vous serez un peu dedans et un peu dehors grâce
-					à la baie vitrée servant d'accès. Bienvenue dans votre cocon au senteur provençal et à l'accent des cigales !</strong>
-					</br>Vous pouvez également louer une
-					<a href="#" style="color:#ef476f" class="liensousmenu">maisonnette</a>. A la manière d'un gite, ce type de location est idéale pour les grandes familles et les tribus.</p>
-				<!-- <div class="row">
-					<div class="col-6 padding20" style="text-align:center">
-						<a href="presentation-village-vacances.php" class="liensousmenu">
-							<i class="fas fa-arrow-alt-circle-left"></i>
-							</br>sommaire</a>
-					</div>
-					<div class="col-6 padding20" style="text-align:center">
-						<a href="presentation-restaurant.php" class="liensousmenu">
-							<i class="fas fa-arrow-alt-circle-right"></i>
-							</br>restaurant</a>
-					</div>
-				</div> -->
-			</div>
+            <p></br><strong>Pas une mais deux piscines privées</strong>, rien que pour vous, sans oublier les <strong>plages</strong> pour profiter des transats et parasols et être ainsi installé très confortablement. Bien entendu, le risque est grand que vous y passiez toute votre journée <strong>pour le plus grand bonheur de vos enfants.</strong></br></br><strong>Cet espace aquatique</strong> est également le terrain d'activités sportives dont notre maître nageur a le secret.</br>Alors, on ne vous cachera pas que la <strong>crème solaire</strong> est fortement recommandée car le <strong>soleil du Var</strong> est bien présent mais s'adoucit au contact de l'eau ! Bonne baignade !</br></br>. A noter : votre <strong>location de vacances</strong> inclus l'accès illimité à <strong>l'espace aquatique</strong>.
+            </p>
+         </div>
+         
 			<!-- photo body -->
 			<div class="col-sm-12 col-md-6 photo-body content">
-				<img class="img-responsive" style="width:90%" src="img/village-vacacances-la-manne-location-chambre-gite-var-provence.jpg">
+				<img class="img-responsive" style="width:90%" src="img/village-vacances-la-manne-bar-piscine.jpg">
 			</div>
 		</div>
 
@@ -83,25 +66,33 @@
 		<div class="row">
 			<!-- 2ème photo plein pot -->
 			<div class="col-12 padding0">
-				<img class="img-responsive" style="width:100%" src="img/bnb_office_conciergerie_risoul_vars.jpg">
+				<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-bar-convivialite-var-soleil.jpg">
 			</div>
 		</div>
 	</div>
 	<div class="row">
 		<!-- body -->
 		<div class="col-12 col-md-6 body-paragraphe">
-			</br><h4 style="text-align:center;padding-bottom:20px">Descriptif de votre location de vacances</h4>
+			</br><h4 style="text-align:center;padding-bottom:20px"><strong>Le grand bassin</strong></h4>
 			<ul class="bulletpoint">
-				<li>chambre pour 2 personnes ou
-					<strong>familiale</strong> pour 6 personnes,</li>
-				<li>extérieur : terrasse privée, pergola, mobilier de jardin,</li>
-				<li>intérieur : salle d'eau comprenant 1 douche, 1 lavabo, 1 WC, lits simples,</li>
-				<li>services inclus : linge de lit et de toilette fourni,
-					<strong>lits faits à l'arrivée</strong>.</li>
+            <li>8 x 9 m</li>
+				<li>le bar,</li>
+				<li><strong>le bébé-club</strong></li>
+            <li>les salles d'activités, notamment la salle télé</li>
+				<li>le restaurant.</li>
+			</ul>
+			</br><h4 style="text-align:center;padding-bottom:20px"><strong>Le petit bassin</strong></h4>
+			<ul class="bulletpoint">
+            <li><strong>Pataugeoire</strong></li>
+				<li>le bar,</li>
+				<li><strong>le bébé-club</strong></li>
+            <li>les salles d'activités, notamment la salle télé</li>
+				<li>le restaurant.</li>
+			</ul>	
 		</div>
 		<!-- photo body -->
 		<div class="col-12 col-md-6 photo-body content ">
-			<img class="text-center" style="width:90%" src="img/village-vacances-chambre-location-mer-sud-odeur.jpg">
+			<img class="text-center" style="width:90%" src="img/village-vacances-la-manne-place-village-aperitif-copains-amis.jpg">
 		</div>
 	</div>
 
@@ -109,7 +100,7 @@
 	<div class="row">
 		<!-- 2ème photo plein pot -->
 		<div class="col-12 padding0">
-			<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-soleil-chambre-location-var.jpg">
+			<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-soiree-conviviale.jpg">
 		</div>
 	</div>
 	</div>
