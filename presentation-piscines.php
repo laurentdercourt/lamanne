@@ -15,7 +15,7 @@
 	<!-- mon CSS -->
 	<link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
    <link rel="stylesheet" type="text/css" media="screen" href="css/presentation-village.css" />
-   <link rel="stylesheet" type="text/css" media="screen" href="css/presentation-piscine.css" />
+   <link rel="stylesheet" type="text/css" media="screen" href="css/presentation-piscines.css" />
 	<!-- typo roboto avec ttes les graisses -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:100,400,700,900" rel="stylesheet">
 	<!-- icone font awesome -->
@@ -57,7 +57,7 @@
          
 			<!-- photo body -->
 			<div class="col-sm-12 col-md-6 photo-body content">
-				<img class="img-responsive" style="width:90%" src="img/village-vacances-la-manne-bar-piscine.jpg">
+				<img class="img-responsive" style="width:90%" src="img/village-vacances-fleur-parc-piscine-la-manne.jpg">
 			</div>
 		</div>
 
@@ -66,7 +66,7 @@
 		<div class="row">
 			<!-- 2ème photo plein pot -->
 			<div class="col-12 padding0">
-				<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-bar-convivialite-var-soleil.jpg">
+				<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-piscine-espace-aquatique.jpg">
 			</div>
 		</div>
 	</div>
@@ -92,7 +92,7 @@
 		</div>
 		<!-- photo body -->
 		<div class="col-12 col-md-6 photo-body content ">
-			<img class="text-center" style="width:90%" src="img/village-vacances-la-manne-place-village-aperitif-copains-amis.jpg">
+			<img class="text-center" style="width:90%" src="img/village-vacances-la-manne-piscine-vue-haut.jpg">
 		</div>
 	</div>
 
@@ -100,7 +100,7 @@
 	<div class="row">
 		<!-- 2ème photo plein pot -->
 		<div class="col-12 padding0">
-			<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-soiree-conviviale.jpg">
+			<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-pataugeoire-piscine.jpg">
 		</div>
 	</div>
 	</div>
