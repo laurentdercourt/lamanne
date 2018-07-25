@@ -14,7 +14,7 @@ $("#photomenu2").hover(function () {
       'background-image': 'url(img/red.jpeg)',
 
 
-   }).html('<a class="lienphotomenu" href="#">Passez des vacances en famille</a>');
+   }).html('<a class="lienphotomenu" href="vacances-en-famille.php">Passez des vacances en famille</a>');
 }, function () {
    $(this).css('background-image','url(img/village-vacances-la-manne-vacances-en-famille.jpg)').html("");
 });

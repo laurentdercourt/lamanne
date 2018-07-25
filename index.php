@@ -27,7 +27,7 @@
             <nav>
                   <div class="row">
                         <div class="col-lg-3 col-md-12">
-                              <h3 class="rubrique taille21">Touristra Vacances</h3>
+                              <img src="img/logo_touristra.png">
                         </div>
                         <div class="col-lg-2 col-md-4 menu ligne">
                               <a href="#" class="rubrique lien">Réservez</a>

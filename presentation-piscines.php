@@ -51,7 +51,7 @@
 		<div class="row">
 			<!-- body -->
 			<div class="col-sm-12 col-md-6 body-paragraphe">
-            <p></br><strong>Pas une mais deux piscines privées</strong>, rien que pour vous, sans oublier les <strong>plages</strong> pour profiter des transats et parasols et être ainsi installé très confortablement. Bien entendu, le risque est grand que vous y passiez toute votre journée <strong>pour le plus grand bonheur de vos enfants.</strong></br></br><strong>Cet espace aquatique</strong> est également le terrain d'activités sportives dont notre maître nageur a le secret.</br>Alors, on ne vous cachera pas que la <strong>crème solaire</strong> est fortement recommandée car le <strong>soleil du Var</strong> est bien présent mais s'adoucit au contact de l'eau ! Bonne baignade !</br></br>. A noter : votre <strong>location de vacances</strong> inclus l'accès illimité à <strong>l'espace aquatique</strong>.
+            <p></br><strong>Pas une mais deux piscines privées</strong>, rien que pour vous, sans oublier les <strong>plages</strong> pour profiter des transats et parasols et être ainsi installé très confortablement. Bien entendu, le risque est grand que vous y passiez toute votre journée <strong>pour le plus grand bonheur de vos enfants.</strong></br></br><strong>Cet espace aquatique</strong> est également le terrain d'activités sportives dont notre maître nageur a le secret.</br>Alors, on ne vous cachera pas que la <strong>crème solaire</strong> est fortement recommandée car le <strong>soleil du Var</strong> est bien présent mais s'adoucit au contact de l'eau ! Bonne baignade !</br></br>A noter : votre <strong>location de vacances</strong> inclus l'accès illimité à <strong>l'espace aquatique</strong>.
             </p>
          </div>
          
