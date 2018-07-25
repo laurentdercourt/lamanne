@@ -51,7 +51,8 @@
 <div class="row">
    <!-- body -->
    <div class="col-sm-12 col-md-6 body-paragraphe">
-      <p></br><strong>Gite</strong> ou maisonnette, peu importe le nom, ce type de <strong>location</strong> à l'espace généreux sera idéal si vous souhaitez gérer votre séjour comme vous le souhaitez. En effet, vous avez la possibilité de préparer vos repas grâce à la cuisine équipée et les prendre à l'heure de votre choix.</br>Vous disposez d'un accès indépendant à cette partie du <strong>domaine arboré de La Manne.</strong></br></br>Les maisonnettes sont réservables dès le mois d'avril et jusqu'en octobre. L'été indien vous ouvre ses portes avec la possibilité de découvrir la <strong>région Provence Côte d'Auzr</strong> sous un nouvel éclairage !</p>
+      <p></br><strong>Gite</strong> ou maisonnette, peu importe le nom, ce type de <strong>location</strong> à l'espace généreux sera idéal si vous souhaitez gérer votre séjour comme vous le souhaitez. En effet, vous avez la possibilité de préparer vos repas grâce à la cuisine équipée et les prendre à l'heure de votre choix.</br>Vous disposez d'un accès indépendant à cette partie du <strong>domaine arboré de La Manne.</strong></br></br>Les maisonnettes sont réservables dès le mois d'avril et jusqu'en octobre. L'été indien vous ouvre ses portes avec la possibilité de découvrir la <strong>région Provence Côte d'Auzr</strong> sous un nouvel éclairage !</br></br>Vous pouvez également louer une
+					<a href="presentation-hebergement.php" style="color:#ef476f" class="liensousmenu">chambre</a>.</p>
 
    </div>
    <!-- photo body -->

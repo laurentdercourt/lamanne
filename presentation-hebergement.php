@@ -58,19 +58,7 @@
 					loggia, originale et dépaysante, vous serez un peu dedans et un peu dehors grâce
 					à la baie vitrée servant d'accès. Bienvenue dans votre cocon au senteur provençal et à l'accent des cigales !</strong>
 					</br>Vous pouvez également louer une
-					<a href="#" style="color:#ef476f" class="liensousmenu">maisonnette</a>. A la manière d'un gite, ce type de location est idéale pour les grandes familles et les tribus.</p>
-				<!-- <div class="row">
-					<div class="col-6 padding20" style="text-align:center">
-						<a href="presentation-village-vacances.php" class="liensousmenu">
-							<i class="fas fa-arrow-alt-circle-left"></i>
-							</br>sommaire</a>
-					</div>
-					<div class="col-6 padding20" style="text-align:center">
-						<a href="presentation-restaurant.php" class="liensousmenu">
-							<i class="fas fa-arrow-alt-circle-right"></i>
-							</br>restaurant</a>
-					</div>
-				</div> -->
+					<a href="presentation-maisonnette.php" style="color:#ef476f" class="liensousmenu">maisonnette</a>. A la manière d'un gite, ce type de location est idéale pour les grandes familles et les tribus.</p>
 			</div>
 			<!-- photo body -->
 			<div class="col-sm-12 col-md-6 photo-body content">

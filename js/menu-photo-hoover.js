@@ -34,7 +34,7 @@ $("#photomenu4").hover(function () {
       'background-image': 'url(img/red.jpeg)',
 
 
-   }).html('<a class="lienphotomenu" href="#">Savourez !</br>vous êtes en pleine nature</a>');
+   }).html('<a class="lienphotomenu" href="presentation-des-environs.php">Savourez !</br>vous êtes en pleine nature</a>');
 }, function () {
    $(this).css('background-image','url(img/village-vacances-la-manne-nature-farniente-soleil.jpg)').html("");
 });
