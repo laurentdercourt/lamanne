@@ -1,10 +1,20 @@
 
 .phototitre {
-   margin-top: 136px;
-   background: url(../img/village-vacances-nature-parc-la-manne.jpg)no-repeat center !important;
+   margin-bottom: 10px;
+   margin-top:0px;
+   background: url(../img/1900x500_villages-vacances-la-manne-activites-pour-tous.jpg)no-repeat center !important;
    height: 500px;
 }
 
+.fondblockquote{
+   background-color:#ffc43d;
+   margin : 0 0 1rem !important;
+
+}
+
+.couleur-titre-card{
+color:#ef476F;
+}
 
 @media (max-width:768px) {
    .phototitre-titre {

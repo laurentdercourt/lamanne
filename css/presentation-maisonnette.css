@@ -1,0 +1,32 @@
+.phototitre {
+   margin-bottom: 10px;
+   margin-top:0px;
+   background: url(../img/1900x500_village-vacances-la-manne-gite-maisonnette-exterieur.jpg)no-repeat center !important;
+   height: 500px;
+}
+
+
+@media (max-width:768px) {
+   .phototitre-titre {
+      margin-top: 174px !important;
+      height:146px;
+   }
+}
+
+@media (max-width: 375px) {
+   .phototitre-titre {
+      margin-top:118px !important;
+      height:146px;
+   }
+
+   .taille-typo-h3{
+      font-size: 22px !important;
+   }
+}
+
+@media (max-width: 425px) {
+   .phototitre-titre {
+      margin-top:174px !important;
+      height:122px;
+   }
+}

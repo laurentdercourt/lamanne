@@ -24,9 +24,9 @@ $("#photomenu3").hover(function () {
       'background-image': 'url(img/red.jpeg)',
 
 
-   }).html('<a class="lienphotomenu" href="#">Louez une maisonnette</a>');
+   }).html('<a class="lienphotomenu" href="presentation-maisonnette.php">Louez une maisonnette</a>');
 }, function () {
-   $(this).css('background-image','url(img/village-vacacances-la-manne-gite.jpg)').html("");
+   $(this).css('background-image','url(img/635x555_village-vacances-la-manne-gite-maisonnette-soleil-var.jpg)').html("");
 });
 
 $("#photomenu4").hover(function () {
