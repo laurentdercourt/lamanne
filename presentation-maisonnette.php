@@ -93,7 +93,7 @@
 <div class="row">
 <!-- 2ème photo plein pot -->
 <div class="col-12 padding0">
-   <img class="img-responsive" style="width:100%" src="img/1900x500_village-vacances-la-manne-gite-maisonnette-pinède-arboré.jpg">
+   <img class="img-responsive" style="width:100%" src="img/1900x500_village-vacances-la-manne-gite-maisonnette-pinede-arbore.jpg">
 </div>
 </div>
 </div>

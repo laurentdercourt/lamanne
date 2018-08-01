@@ -1,19 +1,23 @@
 
 .phototitre {
-   margin-bottom: 10px;
+   margin-bottom: 15px;
    margin-top:0px;
    background: url(../img/1900x500_villages-vacances-la-manne-activites-pour-tous.jpg)no-repeat center !important;
    height: 500px;
 }
 
 .fondblockquote{
-   background-color:#ffc43d;
+   background-color:#7bdff2;
    margin : 0 0 1rem !important;
+}
 
+.blockquote-text{
+   color:#f8ffe5;
 }
 
 .couleur-titre-card{
-color:#ef476F;
+color: #7bdff2;
+letter-spacing: .1em;
 }
 
 @media (max-width:768px) {

@@ -26,32 +26,30 @@
 
             <nav>
                   <div class="row">
-                        <div class="col-lg-3 col-md-12">
+                        <div class="col-lg-2 col-md-12">
                               <img src="img/logo_touristra.png">
                         </div>
                         <div class="col-lg-2 col-md-4 menu ligne">
                               <a href="#" class="rubrique lien">Réservez</a>
                         </div>
                         <div class="col-lg-2 col-md-4 menu ligne">
-                              <a href="#" class="rubrique lien">Contactez-nous</a>
+                              <a href="contact.php" class="rubrique lien">Contactez-nous</a>
                         </div>
                         <div class="col-lg-2 col-md-4 menu ligne">
                               <a class="rubrique lien" href="#">Actualités</a>
                         </div>
-                        <div class="col-lg-1 col-md-4 col-4 menu ligne">
+                        <div class="col-lg-2 col-md-4 menu ligne">
+                              <a class="rubrique lien" href="#">Accueil groupe</a>
+                        </div>
+                        <div class="col-lg-1 col-md-4 col-6 menu ligne">
                                     <a href="#" class="rubrique lien">
                                           <i class="fab fa-facebook-square"></i>
                                     </a>
                               </a>
                         </div>
-                        <div class="col-lg-1 col-md-4 col-4 menu ligne">
+                        <div class="col-lg-1 col-md-4 col-6 menu ligne">
                               <a href="#" class="rubrique lien">
                                     <i class="fab fa-twitter-square"></i>
-                              </a>
-                        </div>
-                        <div class="col-lg-1 col-md-4 col-4 menu ligne">
-                              <a href="#" class="rubrique lien">
-                                    <i class="fab fa-youtube-square"></i>
                               </a>
                         </div>
                   </div>

@@ -14,8 +14,7 @@
 	   crossorigin="anonymous">
 	<!-- mon CSS -->
 	<link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
-   <link rel="stylesheet" type="text/css" media="screen" href="css/presentation-village.css" />
-   <link rel="stylesheet" type="text/css" media="screen" href="css/presentation-place-village.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="css/presentation-scene.css" />
 	<!-- typo roboto avec ttes les graisses -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:100,400,700,900" rel="stylesheet">
 	<!-- icone font awesome -->
@@ -34,12 +33,12 @@
 		<div class="row">
 			<!-- photo plein pot  -->
 			<div class="col-md-12 phototitre padding0">
-				<h2 class="phototitre-h2">La place du village</h2>
+				<h2 class="phototitre-h2">La grande scène extérieure, the place to be !</h2>
 				<h1 class="phototitre-h1">Location vacances, village vacances au soleil | Var Bormes Les Mimosas La Manne</h1>
 				<div class="row">
 					<!--  titre photo -->
 					<div class="col-6 col-md-3 phototitre-titre">
-						<h3 class="taille-typo-h3">C'est là que ça se passe</h3>
+						<h3>Soirées animées !</h3>
 					</div>
 					<div class="col-6 col-md-9">
 					</div>
@@ -51,13 +50,13 @@
 		<div class="row">
 			<!-- body -->
 			<div class="col-sm-12 col-md-6 body-paragraphe">
-            <p></br>La place du village, c'est l'endroit à mémoriser, on s'y retrouve tous ensemble pour faire la fête ou profiter du soleil naissant devant un bon café ! Elle permet d'accéder au restaurant et au bar mais également <strong>aux soirées endiablées</strong> sans oublier les jeux avant et après la pause déjeuner.</br>La place du village borde également les <strong>piscines</strong> et n'est jamais très loin du terrain réservé à la pétanque.</br>Il fait bon de venir s'y asseoir pour se reposer et lire je journal ou profiter du <strong>WiFi</strong> pour consulter ces emails pour les plus accros d'entre vous.</br>Fermez les yeux, ça y est, vous y êtes dans cette <strong>belle région de provence</strong>, près de la <strong>mer mediterranée</strong>, en plein coeur du village vacances de La Manne. 
-            </p>
-         </div>
-         
+				<p></br>La grande scène extérieure est dédiée à l'ensemble des spectacles quotidiens joués par l'équipe du <strong>village club de La Manne !</strong> Vous serez séduit par la qualité des shows, plein d'humour et d'interactivité ! Cabaret, radio-crochet, one-man show, théatre, ... il y a de quoi passer, sans aucun doute, de belles soirées. Du plongeur au directeur, toute l'équipe est sur scène, vous aurez parfois quelques difficultés à les reconnaître ! Chapeau l'artiste !
+					</br>
+					<a target="_blank" href="http://villagevacanceslamanne.blogspot.com/" style="color:#ef476f" class="liensousmenu"></strong>le blog du village vacances La Manne</strong></a> dévoilent souvent les coulisses des spectacles, n'hésitez pas à le consulter. </p>
+			</div>
 			<!-- photo body -->
 			<div class="col-sm-12 col-md-6 photo-body content">
-				<img class="img-responsive" style="width:90%" src="img/village-vacances-la-manne-bar-piscine.jpg">
+				<img class="img-responsive" style="width:90%" src="img/village-vacances-la-manne-artiste-humour-equipe.jpg">
 			</div>
 		</div>
 
@@ -66,24 +65,19 @@
 		<div class="row">
 			<!-- 2ème photo plein pot -->
 			<div class="col-12 padding0">
-				<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-bar-convivialite-var-soleil.jpg">
+				<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-spectacle-show-touristra.jpg">
 			</div>
 		</div>
 	</div>
 	<div class="row">
 		<!-- body -->
 		<div class="col-12 col-md-6 body-paragraphe">
-			</br><h4 style="text-align:center;padding-bottom:20px">Rendez-vous sur la place du village <strong> pour accéder :</strong></h4>
-			<ul class="bulletpoint">
-            <li><strong>Aux piscines,</strong></li>
-				<li>Au bar,</li>
-				<li><strong>Au bébé-club</strong></li>
-            <li>Aux salles d'activités, notamment la salle télé</li>
-            <li>Au restaurant.</li>
+			</br><h4 style="text-align:center;padding-bottom:20px"><strong>Demandez le programme !</strong></h4>
+			<p>Votre programme hebdomadaire est le document à avoir pour ne rien louper ! L'équipe du <strong>village vacances La Manne</strong> vous donne rendez-vous chaque <strong>dimanche à 11h</strong> pour tout vous dire. Rendez-vous sur les gradins de la scène. Un rafraichissement vous sera ensuite offert sur la place du village. <strong>Soyez heureux, vous êtes en vacances !</strong></p>
 		</div>
 		<!-- photo body -->
 		<div class="col-12 col-md-6 photo-body content ">
-			<img class="text-center" style="width:90%" src="img/village-vacances-la-manne-place-village-aperitif-copains-amis.jpg">
+			<img class="text-center" style="width:90%" src="img/village-vacances-la-manne-pot-accueil-var.jpg">
 		</div>
 	</div>
 
@@ -91,7 +85,7 @@
 	<div class="row">
 		<!-- 2ème photo plein pot -->
 		<div class="col-12 padding0">
-			<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-soiree-conviviale.jpg">
+			<img class="img-responsive" style="width:100%" src="img/village-vacances-spectacle-la-manne-famille.jpg">
 		</div>
 	</div>
 	</div>

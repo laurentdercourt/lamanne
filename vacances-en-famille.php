@@ -32,7 +32,7 @@
     <div class="row">
       <!-- photo plein pot  -->
       <div class="col-md-12 phototitre padding0">
-        <h2 class="phototitre-h2">Des activités pour chaque génération !</h2>
+        <h2 class="phototitre-h2">De la convivialité et des activités pour tous !</h2>
         <h1 class="phototitre-h1">Vacances en famille | location de Vars | l’été au soleil | Var, Côte d’Azur, Provence, France</h1>
       </div>
     </div>
@@ -50,7 +50,7 @@
         </div>
       </div>
       <div class="card">
-        <img class="card-img-top" src="img/219x200_village-vacances-la-manne-club-enfants-3-à-12-ans.jpg" alt="Card image cap">
+        <img class="card-img-top" src="img/219x200_village-vacances-la-manne-club-enfants-3-a-12-ans.jpg" alt="Card image cap">
         <div class="card-body">
           <h5 class="card-title couleur-titre-card">Les enfants de 3 à 12 ans : le club enfants</h5>
           <p class="card-text">L'équipe d'animation se chargera de les distraire tout au long de la journée : jeux et sports collectifs, activités
@@ -64,13 +64,13 @@
         <div class="card-body">
           <h5 class="card-title couleur-titre-card">Les ados à partir de 13 ans : Anim'Ados</h5>
           <p class="card-text">Pas de question existentielle,
-            <strong>juste du fun</strong>, à partir d'une pallette presque infinie de distractions, les journées sont bien occupées,
+            <strong>juste du fun ! </strong>Grâce à nos animateurs à l'imagination sans limite, les journées sont bien occupées,
             <strong>les ados sont bien à la Manne.</strong>
           </p>
         </div>
       </div>
       <blockquote class="blockquote mb-0 card-body fondblockquote">
-        <p>"Important, navette gratuite au départ du village pour se rendre à la plage, juste pour vous (service disponible
+        <p class="blockquote-text">"Important, navette gratuite au départ du village pour se rendre à la plage, juste pour vous (service disponible
           en juillet/août)"</p>
         <footer class="blockquote-footer">
           <small class="text-muted text-auteur">
@@ -92,10 +92,9 @@
       <div class="card">
         <img class="card-img-top" src="img/219x200_village-vacances-la-manne-activites-seniors.jpg" alt="Card image cap">
         <div class="card-body">
-          <h5 class="card-title couleur-titre-card">Les séniors</h5>
+          <h5 class="card-title couleur-titre-card">Les seniors</h5>
           <p class="card-text">Profiter du bien-être du
-            <strong>village-club La Manne</strong> pour recharger les batteries : du zen, du repos, des découvertes, énergiques ou
-            pas, le programme sera à la hauteur : initiation à la peinture, gym douce, promenade, pétanque, danse de salon,
+            <strong>village-club La Manne</strong> pour recharger les batteries et laissez le temps au temps ! Vous pouvez préférer des périodes où l'affluence est moindre et vous organiser un programme sur-mesure : du zen, du repos, des découvertes, des rencontres et des activités coome l'initiation à la peinture, la gym douce, la pétanque, la danse de salon,
             ... .</p>
         </div>
       </div>
@@ -111,7 +110,7 @@
       </div>
     </div>
     <blockquote class="blockquote mb-0 card-body fondblockquote">
-      <p>"En soirée, il se passe toujours quelque chose sur la place du village ou dans la salle de spectacle !"</p>
+      <p class="blockquote-text">"En soirée, il se passe toujours quelque chose sur la place du village ou dans la salle de spectacle !"</p>
       <footer class="blockquote-footer">
         <small class="text-muted text-auteur">
           Adrien, Responsable animation.

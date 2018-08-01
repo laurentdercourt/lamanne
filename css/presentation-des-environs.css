@@ -1,0 +1,23 @@
+.liensousmenu:hover {
+   text-decoration: none !important;
+   color: #7bdff2 !important;
+}
+
+.liensousmenu:visited {
+   color: #ef476f;
+}
+
+
+.title{
+   color:#7bdff2;
+}
+
+.fondblockquote{
+   background-color:#7bdff2;
+   margin : 0 0 1rem !important;
+}
+
+.couleur-titre-card{
+   color: white;
+   letter-spacing: .1em;
+   }

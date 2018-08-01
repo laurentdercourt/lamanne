@@ -14,8 +14,7 @@
 	   crossorigin="anonymous">
 	<!-- mon CSS -->
 	<link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
-   <link rel="stylesheet" type="text/css" media="screen" href="css/presentation-village.css" />
-   <link rel="stylesheet" type="text/css" media="screen" href="css/presentation-place-village.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="css/presentation-scene.css" />
 	<!-- typo roboto avec ttes les graisses -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:100,400,700,900" rel="stylesheet">
 	<!-- icone font awesome -->
@@ -34,12 +33,12 @@
 		<div class="row">
 			<!-- photo plein pot  -->
 			<div class="col-md-12 phototitre padding0">
-				<h2 class="phototitre-h2">La place du village</h2>
+				<h2 class="phototitre-h2">Un endroit très spécial à découvrir</h2>
 				<h1 class="phototitre-h1">Location vacances, village vacances au soleil | Var Bormes Les Mimosas La Manne</h1>
 				<div class="row">
 					<!--  titre photo -->
 					<div class="col-6 col-md-3 phototitre-titre">
-						<h3 class="taille-typo-h3">C'est là que ça se passe</h3>
+						<h3>Inspirant, respirez !</h3>
 					</div>
 					<div class="col-6 col-md-9">
 					</div>
@@ -51,13 +50,11 @@
 		<div class="row">
 			<!-- body -->
 			<div class="col-sm-12 col-md-6 body-paragraphe">
-            <p></br>La place du village, c'est l'endroit à mémoriser, on s'y retrouve tous ensemble pour faire la fête ou profiter du soleil naissant devant un bon café ! Elle permet d'accéder au restaurant et au bar mais également <strong>aux soirées endiablées</strong> sans oublier les jeux avant et après la pause déjeuner.</br>La place du village borde également les <strong>piscines</strong> et n'est jamais très loin du terrain réservé à la pétanque.</br>Il fait bon de venir s'y asseoir pour se reposer et lire je journal ou profiter du <strong>WiFi</strong> pour consulter ces emails pour les plus accros d'entre vous.</br>Fermez les yeux, ça y est, vous y êtes dans cette <strong>belle région de provence</strong>, près de la <strong>mer mediterranée</strong>, en plein coeur du village vacances de La Manne. 
-            </p>
-         </div>
-         
+				<p></br>Décidemment, <strong>le village vacances La Manne</strong> est plein de surprises. L'ensemble du <strong>parc naturel</strong> accueille déjà de nombreux endroits mais celui-là est un peu caché, bien à l'abris des arbres pour garder la fraicheur. Vous tomberez dessus en ayant pris soin de vous faire indiquer son emplacement. Franchissez la passerelle, pénétrez dans le <strong>Typik</strong> et nulle par ailleurs ! Ce lieu singulier à l'allure vintage sera vous séduire. Un passage durant votre séjour s'impose !</p>
+			</div>
 			<!-- photo body -->
 			<div class="col-sm-12 col-md-6 photo-body content">
-				<img class="img-responsive" style="width:90%" src="img/village-vacances-la-manne-bar-piscine.jpg">
+				<img class="img-responsive" style="width:90%" src="img/800x600_village-vacances-typik-atypique.jpg">
 			</div>
 		</div>
 
@@ -66,24 +63,19 @@
 		<div class="row">
 			<!-- 2ème photo plein pot -->
 			<div class="col-12 padding0">
-				<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-bar-convivialite-var-soleil.jpg">
+				<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-spectacle-show-touristra.jpg">
 			</div>
 		</div>
 	</div>
 	<div class="row">
 		<!-- body -->
 		<div class="col-12 col-md-6 body-paragraphe">
-			</br><h4 style="text-align:center;padding-bottom:20px">Rendez-vous sur la place du village <strong> pour accéder :</strong></h4>
-			<ul class="bulletpoint">
-            <li><strong>Aux piscines,</strong></li>
-				<li>Au bar,</li>
-				<li><strong>Au bébé-club</strong></li>
-            <li>Aux salles d'activités, notamment la salle télé</li>
-            <li>Au restaurant.</li>
+			</br><h4 style="text-align:center;padding-bottom:20px"><strong>Demandez le programme !</strong></h4>
+			<p>Décidemment, <strong>le village vacances La Manne</strong> est plein de surprises. L'ensemble du <strong>parc naturel</strong> accueille déjà de nombreux endroits mais celui-là est un peu caché, bien à l'abris des arbres pour garder la fraicheur. Vous tomberez dessus en ayant pris soin de vous faire indiquer son emplacement. Franchissez la passerelle, pénétrez dans le <strong>Typik</strong> et nulle par ailleurs ! Ce lieu singulier à l'allure vintage sera vous séduire. Un passage durant votre séjour s'impose !</p> 
 		</div>
 		<!-- photo body -->
 		<div class="col-12 col-md-6 photo-body content ">
-			<img class="text-center" style="width:90%" src="img/village-vacances-la-manne-place-village-aperitif-copains-amis.jpg">
+			<img class="text-center" style="width:90%" src="img/village-vacances-la-manne-pot-accueil-var.jpg">
 		</div>
 	</div>
 
@@ -91,7 +83,7 @@
 	<div class="row">
 		<!-- 2ème photo plein pot -->
 		<div class="col-12 padding0">
-			<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-soiree-conviviale.jpg">
+			<img class="img-responsive" style="width:100%" src="img/village-vacances-spectacle-la-manne-famille.jpg">
 		</div>
 	</div>
 	</div>

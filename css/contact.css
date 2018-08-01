@@ -1,0 +1,53 @@
+body {
+   background-color: #1c8598 !important;
+}
+
+.accroche-h1 {
+   color: #ffc43d;
+   font-weight: 700;
+   letter-spacing: .8px;
+   font-size: 4em;
+   line-height: 75px;
+   text-align: right;
+   margin-top:40px;
+}
+
+.textebody {
+   padding-left: 30px;
+   color: white;
+   font-size: 25px;
+   text-align: right;
+   font-weight: 100;
+   letter-spacing: 1.2px;
+   line-height: 30px;
+   margin-top:10px;
+}
+
+/* contact form */
+
+.my-container{
+   width:900px;
+   margin: auto;
+   margin-top:30px;
+}
+
+.text-date{
+   font-size:10px;
+   color:white;
+   font-weight: 100;
+}
+
+.text-checkbox{
+   font-weight: 100;
+   color:#ffc43d;
+}
+
+.accroche-h2 {
+   color: #ffc43d;
+   font-weight: 700;
+   letter-spacing: .8px;
+   font-size: 4em;
+   line-height: 75px;
+   text-align: right;
+   margin-top:40px;
+}
