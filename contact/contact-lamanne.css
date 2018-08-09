@@ -1,0 +1,17 @@
+.contact-title{
+   text-align:center;
+   color:#1c8598;
+   font-size: 80px;
+   margin-top: 20%;
+}
+
+.contact-text{
+   text-align: center;
+   color:#7bdff2;
+   line-height: 30px;
+   font-size:40px;
+}
+
+body{
+   background-color: #f8ffe5;
+}

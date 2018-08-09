@@ -50,7 +50,7 @@
 		<div class="row">
 			<!-- body -->
 			<div class="col-sm-12 col-md-6 body-paragraphe">
-				<p></br>Décidemment, <strong>le village vacances La Manne</strong> est plein de surprises. L'ensemble du <strong>parc naturel</strong> accueille déjà de nombreux endroits mais celui-là est un peu caché, bien à l'abris des arbres pour garder la fraicheur. Vous tomberez dessus en ayant pris soin de vous faire indiquer son emplacement. Franchissez la passerelle, pénétrez dans le <strong>Typik</strong> et nulle par ailleurs ! Ce lieu singulier à l'allure vintage sera vous séduire. Un passage durant votre séjour s'impose !</p>
+				<p></br>Décidemment, <strong>le village vacances La Manne</strong> est plein de surprises. L'ensemble du <strong>parc naturel</strong> accueille déjà de nombreux endroits mais celui-ci est un peu caché, bien à l'abris des arbres pour garder la fraicheur. Vous tomberez dessus en ayant pris soin de vous faire indiquer son emplacement. Franchissez la passerelle, pénétrez dans le <strong>Typik</strong> et nulle par ailleurs ! Ce lieu singulier à l'allure vintage sera vous séduire. Un passage durant votre séjour s'impose !</p>
 			</div>
 			<!-- photo body -->
 			<div class="col-sm-12 col-md-6 photo-body content">
@@ -70,8 +70,8 @@
 	<div class="row">
 		<!-- body -->
 		<div class="col-12 col-md-6 body-paragraphe">
-			</br><h4 style="text-align:center;padding-bottom:20px"><strong>Demandez le programme !</strong></h4>
-			<p>Décidemment, <strong>le village vacances La Manne</strong> est plein de surprises. L'ensemble du <strong>parc naturel</strong> accueille déjà de nombreux endroits mais celui-là est un peu caché, bien à l'abris des arbres pour garder la fraicheur. Vous tomberez dessus en ayant pris soin de vous faire indiquer son emplacement. Franchissez la passerelle, pénétrez dans le <strong>Typik</strong> et nulle par ailleurs ! Ce lieu singulier à l'allure vintage sera vous séduire. Un passage durant votre séjour s'impose !</p> 
+			</br><h4 style="text-align:center;padding-bottom:20px"><strong>Venez savourer</strong></h4>
+			<p>Dégustations de différents vins rosés de provence, planches de charcuteries ou de fromages (au choix), bonnes bouteilles, des mets raffinés, des amis, c'est parti pour une soirée propice à refaire le monde !</p> 
 		</div>
 		<!-- photo body -->
 		<div class="col-12 col-md-6 photo-body content ">

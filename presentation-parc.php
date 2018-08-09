@@ -51,7 +51,7 @@
 		<div class="row">
 			<!-- body -->
 			<div class="col-sm-12 col-md-6 body-paragraphe">
-            <p></br>Parmis les nombreux atouts du <strong>village vacances La Manne</strong>, en dehors d'être baigné par le <strong>soleil</strong>, il y a d'abord celui d'être implanté en pleine nature où vos voisins seront bosquets de lauriers, palmiers, grandes étendues, arbres centenaires.</br>11 hectares d'un <strong>domaine fleuri</strong> qui font de ce parc un endroit idyllique. D'un côté, vous trouverez chambres et maisonnettes au calme, de l'autre, piscine, salle de spectacle, restaurant, tous les lieux de vie où vous aimerez vous retrouver pour fabriquer vos <strong>souvenirs de vacances</strong>.</br></br>Passez des <strong>vacances au village club La Manne</strong>, c'est assurément passer de très bons moments !
+            <p></br>Parmis les nombreux atouts du <strong>village vacances La Manne</strong>, en dehors d'être baigné par le <strong>soleil</strong>, il y a d'abord celui d'être implanté en pleine nature où vos voisins seront bosquets de lauriers, chênes liège et pins maritimes.</br>11 hectares d'un <strong>domaine fleuri</strong> qui font de ce parc un endroit idyllique où vous pourrez  faire votre jooging matinal ! D'un côté, vous trouverez chambres et maisonnettes au calme, de l'autre, piscine, salle de spectacle, restaurant, tous les lieux de vie où vous aimerez vous retrouver pour fabriquer vos <strong>souvenirs de vacances</strong>.</br></br>Passez des <strong>vacances au village club La Manne</strong>, c'est assurément passer de très bons moments !
             </p>
          </div>
          
@@ -77,11 +77,11 @@
 		<div class="col-12 col-md-6 body-paragraphe">
 			</br><h4 style="text-align:center;padding-bottom:20px"><strong>Le parc recèle de nombreux endroits exclusifs</strong></h4>
 			<ul class="bulletpoint">
-            <li>Le Typi</li>
-				<li>La grande salle de spectacle</li>
-				<li>Une flore dense et variée</li>
-            <li>Terrain de jeu pour les enfants</li>
-				<li>Les allées de promenade</li>
+            <li>Le Typik</li>
+				<li>L'amphithéâtre</li>
+				<li>Une flore dense et variée aux essences méditerannéennes</li>
+            <li>Terrains de jeux pour les enfants</li>
+				<li>Des allées de promenade</li>
 			</ul>
 		</div>
 		<!-- photo body -->

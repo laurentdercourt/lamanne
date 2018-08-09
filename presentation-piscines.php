@@ -5,8 +5,7 @@
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Location vacances, village club - vacances au soleil | Var, Bormes Les Mimosas, La Manne</title>
-	<meta name='description' content='Votre location de vacances dans Var pour passer des vacances en famille dans un domaine en plein coeur de la pinède en Provence, rendez-vous au village club Touristra La Manne à Bormes Les Mimosas'
-	/>
+	<meta name='description' content='Votre location de vacances dans Var pour passer des vacances en famille dans un domaine en plein coeur de la pinède en Provence, rendez-vous au village club Touristra La Manne à Bormes Les Mimosas'/>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- CSS BOOSTRAP -->
@@ -39,7 +38,7 @@
 				<div class="row">
 					<!--  titre photo -->
 					<div class="col-6 col-md-3 phototitre-titre">
-						<h3 class="taille-typo-h3">"Je veux une piscine"</h3>
+						<h3 class="taille-typo-h3">"Je veux une piscine !"</h3>
 					</div>
 					<div class="col-6 col-md-9">
 					</div>
@@ -51,7 +50,7 @@
 		<div class="row">
 			<!-- body -->
 			<div class="col-sm-12 col-md-6 body-paragraphe">
-            <p></br><strong>Pas une mais deux piscines privées</strong>, rien que pour vous, sans oublier les <strong>plages</strong> pour profiter des transats et parasols et être ainsi installé très confortablement. Bien entendu, le risque est grand que vous y passiez toute votre journée <strong>pour le plus grand bonheur de vos enfants.</strong></br></br><strong>Cet espace aquatique</strong> est également le terrain d'activités sportives dont notre maître nageur a le secret.</br>Alors, on ne vous cachera pas que la <strong>crème solaire</strong> est fortement recommandée car le <strong>soleil du Var</strong> est bien présent mais s'adoucit au contact de l'eau ! Bonne baignade !</br></br>A noter : votre <strong>location de vacances</strong> inclus l'accès illimité à <strong>l'espace aquatique</strong>.
+            <p></br><strong>Pas une mais deux piscines privées</strong>, rien que pour vous, sans oublier les <strong>plages</strong> pour profiter des transats et parasols et être ainsi installé très confortablement. Bien entendu, le risque est grand que vous y passiez toute votre journée <strong>pour le plus grand bonheur de vos enfants.</strong></br></br><strong>Cet espace aquatique</strong> est également le terrain d'activités sportives dont notre maître nageur a le secret.</br>On ne vous cachera pas que la <strong>crème solaire</strong> est fortement recommandée car le <strong>soleil du Var</strong> est bien présent mais s'adoucit au contact de l'eau ! Bonne baignade !</br></br>A noter : votre <strong>location de vacances</strong> inclus l'accès illimité à <strong>l'espace aquatique</strong>.
             </p>
          </div>
          
@@ -75,19 +74,15 @@
 		<div class="col-12 col-md-6 body-paragraphe">
 			</br><h4 style="text-align:center;padding-bottom:20px"><strong>Le grand bassin</strong></h4>
 			<ul class="bulletpoint">
-            <li>8 x 9 m</li>
-				<li>le bar,</li>
-				<li><strong>le bébé-club</strong></li>
-            <li>les salles d'activités, notamment la salle télé</li>
-				<li>le restaurant.</li>
+            <li>25 x x m</li>
+				<li>Activités nautiques : gym aquatique, cours de natation, water-polo,</li>
+				<li><strong>Ligne d'eau pour nager</strong></li>
+				<li>piscine chauffée par le soleil généreux du Var</li>
+
 			</ul>
 			</br><h4 style="text-align:center;padding-bottom:20px"><strong>Le petit bassin</strong></h4>
 			<ul class="bulletpoint">
-            <li><strong>Pataugeoire</strong></li>
-				<li>le bar,</li>
-				<li><strong>le bébé-club</strong></li>
-            <li>les salles d'activités, notamment la salle télé</li>
-				<li>le restaurant.</li>
+            <li>Dédié pour les bébés et les enfants (2 hauteurs d'eau)</li>
 			</ul>	
 		</div>
 		<!-- photo body -->

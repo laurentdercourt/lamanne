@@ -9,6 +9,7 @@ body {
    letter-spacing: 1px;
 }
 
+
 .lien:hover {
    text-decoration: none;
    color:#ffc43d !important;
@@ -168,6 +169,7 @@ body {
    }
    .textebody {
       font-size: 20px;
+      text-align: left;
    }
    .lienphotomenu {
       font-size: 40px;

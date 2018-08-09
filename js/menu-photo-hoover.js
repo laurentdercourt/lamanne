@@ -44,7 +44,7 @@ $("#photomenu5").hover(function () {
       'background-image': 'url(img/red.jpeg)',
 
 
-   }).html('<a class="lienphotomenu" href="#">Réservez votre hébergement</a>');
+   }).html('<a class="lienphotomenu" href="contact.php">Réservez votre hébergement</a>');
 }, function () {
    $(this).css('background-image','url(img/village-vacances-la-manne-var-provence-cote-azur.jpg)').html("");
 });
@@ -54,7 +54,7 @@ $("#photomenu6").hover(function () {
       'background-image': 'url(img/red.jpeg)',
 
 
-   }).html('<a class="lienphotomenu" href="#">Le blog officiel du village vacances</br>La Manne</a>');
+   }).html('<a class="lienphotomenu" href="http://villagevacanceslamanne.blogspot.com/">Suivez l\'actualités du village vacances La Manne</a>');
 }, function () {
    $(this).css('background-image','url(img/village-vacances-la-manne-blog-animations-heureux.jpg)').html("");
 });

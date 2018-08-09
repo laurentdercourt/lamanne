@@ -51,7 +51,7 @@
 		<div class="row">
 			<!-- body -->
 			<div class="col-sm-12 col-md-6 body-paragraphe">
-            <p></br>La place du village, c'est l'endroit à mémoriser, on s'y retrouve tous ensemble pour faire la fête ou profiter du soleil naissant devant un bon café ! Elle permet d'accéder au restaurant et au bar mais également <strong>aux soirées endiablées</strong> sans oublier les jeux avant et après la pause déjeuner.</br>La place du village borde également les <strong>piscines</strong> et n'est jamais très loin du terrain réservé à la pétanque.</br>Il fait bon de venir s'y asseoir pour se reposer et lire je journal ou profiter du <strong>WiFi</strong> pour consulter ces emails pour les plus accros d'entre vous.</br>Fermez les yeux, ça y est, vous y êtes dans cette <strong>belle région de provence</strong>, près de la <strong>mer mediterranée</strong>, en plein coeur du village vacances de La Manne. 
+            <p></br>La place du village, c'est l'endroit à mémoriser, on s'y retrouve tous ensemble pour faire la fête ou profiter du soleil naissant devant un bon café ! Elle permet d'accéder au restaurant, au bar,<strong>aux soirées endiablées, </strong> sans oublier les jeux avant et après la pause déjeuner proposés par l'équipe d'animation.</br>La place du village borde également les <strong>piscines</strong> et n'est jamais très loin des terrains de sports (tennis, beach volley, pétanque.</br>Il fait bon de venir s'y asseoir pour se reposer et lire le journal ou profiter du <strong>WiFi</strong> pour consulter ses emails pour les plus accros d'entre vous.</br>Fermez les yeux, ça y est, vous y êtes dans cette <strong>belle région de provence</strong>, près de la <strong>mer mediterranée</strong>, en plein coeur du village vacances de La Manne. 
             </p>
          </div>
          
@@ -73,13 +73,15 @@
 	<div class="row">
 		<!-- body -->
 		<div class="col-12 col-md-6 body-paragraphe">
-			</br><h4 style="text-align:center;padding-bottom:20px">Rendez-vous sur la place du village <strong> pour accéder :</strong></h4>
+			</br><h4 style="text-align:center;padding-bottom:20px">Rendez-vous sur la place du village </br><strong> pour accéder au(x):</strong></h4>
 			<ul class="bulletpoint">
-            <li><strong>Aux piscines,</strong></li>
-				<li>Au bar,</li>
-				<li><strong>Au bébé-club</strong></li>
-            <li>Aux salles d'activités, notamment la salle télé</li>
-            <li>Au restaurant.</li>
+            <li><strong>Piscines,</strong></li>
+				<li>Bar,</li>
+				<li><strong>Bébé-club,</strong></li>
+            <li>Salles d'activités, notamment la salle télé,</li>
+				<li>Restaurant,</li>
+				<li>Terrains de sports.</li>
+				
 		</div>
 		<!-- photo body -->
 		<div class="col-12 col-md-6 photo-body content ">
@@ -91,7 +93,7 @@
 	<div class="row">
 		<!-- 2ème photo plein pot -->
 		<div class="col-12 padding0">
-			<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-soiree-conviviale.jpg">
+			<img class="img-responsive" style="width:100%" src="img/1900x600_village-vacances-la-manne-soiree-conviviale.jpg">
 		</div>
 	</div>
 	</div>

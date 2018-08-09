@@ -52,7 +52,7 @@
 			<!-- body -->
 			<div class="col-sm-12 col-md-6 body-paragraphe">
             <p></br>Ce sera forcément un de vos lieux préférés car oui, dans notre <strong>village de vacances</strong>, on aime à se rendre dans cet espace pour se restaurer.</br>
-            Le petit-déjeuner se prend sous les toiles colorées pour éviter les clins d'oeil du soleil, déjeuner et dîner peuvent sous prendre à l'intérieur bien ventilé grâce aux très grandes fenêtres.</br></br>Tout est en place pour varier les <strong>saveurs</strong> tout au long de votre séjour. <strong>Parfum provençal</strong> où grillade et huile d'olive font bon ménage, il arrive parfois de croiser des spécialités montagnardes ou ch'ti selon les humeurs du chef de cuisine, Aïe ! Mais ce n'est que du plaisir, digne de ce que doivent être des <strong>vacances à la mer</strong> en version (parfois) dépaysante.</br></br>N'oublions pas non plus d'évoquer le bar du <strong>village club</strong>, sans aucun doute là où les parties de rigolade entre amis démarrent. <strong>En toute convialité</strong>, vous profiterez des sourires de la barwoman et des cocktails maison, sans oublier la célèbre boisson anisée et de circonstance (à consommer avec modération).
+            Le petit-déjeuner se prend sous les toiles colorées pour éviter les clins d'oeil du soleil, déjeuner et dîner à l'intérieur, bien ventilé grâce aux très grandes fenêtres.</br>Tout est en place pour varier les <strong>saveurs</strong> tout au long de votre séjour. <strong>Parfums provençaux</strong> où grillades et huile d'olive font bon ménage, il arrive parfois de croiser des spécialités montagnardes ou ch'ti selon les humeurs du chef de cuisine, Aïe ! Mais ce n'est que du plaisir, digne de ce que doivent être des <strong>vacances à la mer</strong> en version (parfois) dépaysante.</br></br>N'oublions pas non plus d'évoquer le bar du <strong>village club</strong>, sans aucun doute là où les parties de rigolade entre amis démarrent. <strong>En toute convialité</strong>, vous profiterez des sourires de l'équipe du bar et des cocktails maison, sans oublier la célèbre boisson anisée et de circonstance (à consommer avec modération).
 
 
 
@@ -79,11 +79,10 @@
 		<div class="col-12 col-md-6 body-paragraphe">
 			</br><h4 style="text-align:center;padding-bottom:20px">Festival pour des gourmets en <strong>vacances</strong></h4>
 			<ul class="bulletpoint">
-				<li><strong>Restaurant avec terrasse ombragée</strong> et espace grillade,</li>
+				<li><strong>Restaurant avec terrasse ombragée</strong> et espace plancha,</li>
 				<li>Repas de qualité sous la forme de buffets frais et variés,</li>
-				<li><strong>En soirée, spécialités thématiques ou provençales</strong></li>
-            <li>Bar au coeur de la place du village et proche de la piscine,</li>
-            <li>Possibilité de panier repas.</li>
+				<li><strong>En soirée, spécialités provençales ou buffets thématiques,</strong></li>
+            <li>Bar au coeur de la place du village et proche des piscines.</li>
 		</div>
 		<!-- photo body -->
 		<div class="col-12 col-md-6 photo-body content ">

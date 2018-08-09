@@ -1,12 +1,4 @@
-<!-- <!doctype <!DOCTYPE html>
-<html>
-<head>
-   <meta charset="utf-8" />
-   <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
-   <!-- <title>Page Title</title> -->
-   <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
 
-   <!-- mon CSS -->
 
    <!-- typo roboto avec ttes les graisses -->
    <link href="https://fonts.googleapis.com/css?family=Roboto:100,400,700,900" rel="stylesheet"> 
@@ -16,17 +8,13 @@
 
 
    <div class="top-menu">
-      <a href="index.php" class="rubrique">Accueil</a>
+      <a href="index.php" class="lien">Accueil</a>
       <hr class="hr-top-menu">
       <p class="rubrique">actualités</p>
       <hr class="hr-top-menu">
-      <a href="contact.php" class="rubrique">Contacts</a>
+      <a href="contact.php" class="lien">Contacts</a>
       <hr class="hr-top-menu">
-      <p class="rubrique" >réservez</p>
-      <hr class="hr-top-menu">
-      <a class="lien circle" href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-square"></i></a>
-      <i class="fab fa-twitter-square"></i>
-      <i class="fab fa-youtube-square"></i>
+      <a href="contact.php" class="lien">Réservez</a>
    </div>
 
 <style>
@@ -54,7 +42,6 @@ regular :
    padding-top: 13px;
    line-height: 10px !important;
    letter-spacing: 1px;
-   border: solid white;
 }
 
 .hr-top-menu {
@@ -69,13 +56,19 @@ regular :
 }
 
 .rubrique{
-   z-index: 1;
+   /* z-index: 1; */
    margin:0;
    padding:0;
 }
 
 
 .lien:visited {
+   text-decoration: none;
+   color:white;
+   pointer-events: visible;
+}
+
+.lien:hover {
    text-decoration: none;
    color:white;
    pointer-events: visible;

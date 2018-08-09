@@ -33,7 +33,7 @@
       <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
       <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
     </ol>
-    <div class="carousel-inner">
+    <div class="carousel-inner margin-margin">
       <div class="carousel-item active">
         <img class="d-block w-100" src="img/1900x600_village-vacances-la-manne-fort-de-bregancon.jpg?auto=yes&bg=777&fg=555&text=First slide"
           alt="First slide">
@@ -77,8 +77,7 @@
       </div>
     </div>
     <blockquote class="blockquote mb-0 card-body fondblockquote">
-      <p class="couleur-titre-card">"Important, navette gratuite au départ du village pour se rendre à la plage, juste pour vous (service disponible en
-        juillet/août)"</p>
+      <p class="couleur-titre-card">"Allez vous baigner dans l'eau transparente de la plage de Sinclair, n'hésitez pas à prendre vos palmes, masque et tuba pour découvrir les fonds marins".</p>
       <footer class="blockquote-footer">
         <small class="text-muted text-auteur">
           Fred., Directeur.
@@ -103,10 +102,10 @@
     </div>
    
   <blockquote class="blockquote mb-0 card-body fondblockquote">
-    <p class="couleur-titre-card">"En soirée, il se passe toujours quelque chose sur la place du village ou dans la salle de spectacle !"</p>
+    <p class="couleur-titre-card">"Des dizaines de parcours de footing et de VTT à découvrir à la sortir du village"</p>
     <footer class="blockquote-footer">
       <small class="text-muted text-auteur">
-        Adrien, Responsable animation.
+        Aldo, Animateur sports.
       </small>
     </footer>
   </blockquote>

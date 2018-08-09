@@ -78,9 +78,9 @@
       <li>Maisonnette pour 4 personnes : 36 m2 (chambre avec lit double et mezzanine 2 lits simples), pour 6 personnes : 42 m2 (chambre supplémentaire avec 2 lits superposés)</li>
       <li>Séjour avec coin repas et cuisine équipée : plaques électriques, micro-ondes, réfrigérateur, lave-vaisselle,</li>
       <li>Terrasse et mobilier de jardin</li>
-      <li>Formule pension complète ou demi-pension</li>
+      <li>Possibilité de formule en pension complète ou demi-pension</li>
       <li>Lits faits à l'arrivée</li>
-      <li>Linge de toilette fourni</li>
+      <li>Linge de toilette fourni (en option)</li>
    </ul>      
 </div>
 <!-- photo body -->

@@ -30,7 +30,7 @@
                               <img src="img/logo_touristra.png">
                         </div>
                         <div class="col-lg-2 col-md-4 menu ligne">
-                              <a href="#" class="rubrique lien">Réservez</a>
+                              <a href="contact.php" class="rubrique lien">Réservez</a>
                         </div>
                         <div class="col-lg-2 col-md-4 menu ligne">
                               <a href="contact.php" class="rubrique lien">Contactez-nous</a>
@@ -42,15 +42,11 @@
                               <a class="rubrique lien" href="#">Accueil groupe</a>
                         </div>
                         <div class="col-lg-1 col-md-4 col-6 menu ligne">
-                                    <a href="#" class="rubrique lien">
-                                          <i class="fab fa-facebook-square"></i>
-                                    </a>
-                              </a>
+                            <a target="_blank" href="https://www.facebook.com/Touristralamanne/?ref=bookmarks" class="lien"><i class="fab fa-facebook"></i></a>
                         </div>
                         <div class="col-lg-1 col-md-4 col-6 menu ligne">
-                              <a href="#" class="rubrique lien">
-                                    <i class="fab fa-twitter-square"></i>
-                              </a>
+                        <a target="_blank" href="https://www.instagram.com/lamanne_touristra/" class="lien"><i class="fab fa-instagram"></i></a>
+
                         </div>
                   </div>
             </nav>
@@ -68,8 +64,8 @@
                         <h2 class="textebody">Le
                               <strong>village vacances La Manne</strong> est situé à Bormes Les Mimosas dans le département du
                               <strong>Var</strong> dans la belle
-                              <strong>Provence</strong>. Le
-                              <strong>village club</strong> est blotti dans la pinède, dans la nature, sous le soleil. Votre
+                              <strong>Provence</strong>.</br>Le
+                              <strong>village club</strong> est blotti dans la pinède, dans la nature, sous le soleil.</br>Votre
                               <strong>location de vacances</strong> et les équipes du village vous attendent pour vous faire passer
                               des moments d’exception dont les souvenirs se rappelleront à vous après votre départ.</h2>
                   </div>

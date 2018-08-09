@@ -50,7 +50,7 @@
 		<div class="row">
 			<!-- body -->
 			<div class="col-sm-12 col-md-6 body-paragraphe">
-				<p></br>La grande scène extérieure est dédiée à l'ensemble des spectacles quotidiens joués par l'équipe du <strong>village club de La Manne !</strong> Vous serez séduit par la qualité des shows, plein d'humour et d'interactivité ! Cabaret, radio-crochet, one-man show, théatre, ... il y a de quoi passer, sans aucun doute, de belles soirées. Du plongeur au directeur, toute l'équipe est sur scène, vous aurez parfois quelques difficultés à les reconnaître ! Chapeau l'artiste !
+				<p></br>La grande scène extérieure est dédiée à l'ensemble des spectacles quotidiens joués par l'équipe du <strong>village club de La Manne !</strong> Vous serez séduit par la qualité des shows, plein d'humour et d'interactivité ! Cabaret, radio-crochet, one-man show, théatre, ... Il y a de quoi passer, sans aucun doute, de belles soirées. Du plongeur au directeur, toute l'équipe est sur scène, vous aurez parfois quelques difficultés à les reconnaître ! Chapeau l'artiste !
 					</br>
 					<a target="_blank" href="http://villagevacanceslamanne.blogspot.com/" style="color:#ef476f" class="liensousmenu"></strong>le blog du village vacances La Manne</strong></a> dévoilent souvent les coulisses des spectacles, n'hésitez pas à le consulter. </p>
 			</div>
@@ -73,7 +73,7 @@
 		<!-- body -->
 		<div class="col-12 col-md-6 body-paragraphe">
 			</br><h4 style="text-align:center;padding-bottom:20px"><strong>Demandez le programme !</strong></h4>
-			<p>Votre programme hebdomadaire est le document à avoir pour ne rien louper ! L'équipe du <strong>village vacances La Manne</strong> vous donne rendez-vous chaque <strong>dimanche à 11h</strong> pour tout vous dire. Rendez-vous sur les gradins de la scène. Un rafraichissement vous sera ensuite offert sur la place du village. <strong>Soyez heureux, vous êtes en vacances !</strong></p>
+			<p>Votre programme hebdomadaire est le document à avoir pour ne rien louper ! L'équipe du <strong>village vacances La Manne</strong> vous donne rendez-vous chaque <strong>dimanche à 11h</strong> pour tout vous dire. Rendez-vous sur les gradins de l'amphithéâtre. Un rafraichissement vous sera ensuite offert sur la place du village. <strong>Soyez heureux, vous êtes en vacances !</strong></p>
 		</div>
 		<!-- photo body -->
 		<div class="col-12 col-md-6 photo-body content ">

@@ -2,14 +2,14 @@ body {
    background-color: #1c8598 !important;
 }
 
-.accroche-h1 {
+.accroche-contact-h1 {
    color: #ffc43d;
    font-weight: 700;
    letter-spacing: .8px;
-   font-size: 4em;
-   line-height: 75px;
+   font-size: 3.3em;
+   line-height: 60px;
    text-align: right;
-   margin-top:40px;
+   margin-top:40px !important;
 }
 
 .textebody {
@@ -23,16 +23,17 @@ body {
    margin-top:10px;
 }
 
+
 /* contact form */
 
 .my-container{
-   width:900px;
+   width:50%;
    margin: auto;
    margin-top:30px;
 }
 
 .text-date{
-   font-size:10px;
+   font-size:15px;
    color:white;
    font-weight: 100;
 }
@@ -48,6 +49,72 @@ body {
    letter-spacing: .8px;
    font-size: 4em;
    line-height: 75px;
-   text-align: right;
-   margin-top:40px;
+   margin:20 0 50 0 !important;
+
+}
+
+input[type=checkbox], input[type=radio] {
+   padding: 2 !important;
+}
+
+.btn-primary {
+   color: #1c8598;
+   background-color: #ffc43d;
+   border-color: #ffc43d;
+}
+
+.btn-primary:hover {
+   color: #ef476f;
+   background-color: #f8ffe5;
+   border-color: #f8ffe5;
+}
+
+.fa, .fas {
+   font-weight: 900;
+   color: white;
+}
+
+.picto-color{
+   color:white;
+}
+
+.liensousmenu:hover {
+   text-decoration: none !important;
+   color: #7bdff2 !important;
+}
+
+.liensousmenu:visited {
+   color: white;
+}
+
+.text-contact{
+   font-weight: 100;
+}
+
+.my-container-2{
+   width:1000px;
+   margin: auto;
+   margin-top:30px;
+}
+
+.custom-control {
+   padding-left: 0 !important;
+}
+
+@media (max-width:370px){
+   .accroche-contact-h1 {
+      /* color: #ffc43d;
+      font-weight: 700; */
+      font-size: 3em;
+   }
+
+   .accroche-h2{
+      font-size:3em;
+      line-height:40px;
+   }
+
+}
+
+.padding0 {
+padding:0 0 0 0 !important;
 }

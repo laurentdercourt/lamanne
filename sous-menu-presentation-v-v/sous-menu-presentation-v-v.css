@@ -26,3 +26,9 @@
    transform: translate(10%, 45%);
    font-size: 30px;
 }
+
+@media (min-width: 300px) and (max-width: 1256px) {
+   .collapse {
+       display: none !important;
+   }
+}

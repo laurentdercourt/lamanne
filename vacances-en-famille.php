@@ -65,13 +65,13 @@
           <h5 class="card-title couleur-titre-card">Les ados à partir de 13 ans : Anim'Ados</h5>
           <p class="card-text">Pas de question existentielle,
             <strong>juste du fun ! </strong>Grâce à nos animateurs à l'imagination sans limite, les journées sont bien occupées,
-            <strong>les ados sont bien à la Manne.</strong>
+            <strong>les pré-ados et ados sont bien à la Manne.</strong>
           </p>
         </div>
       </div>
       <blockquote class="blockquote mb-0 card-body fondblockquote">
         <p class="blockquote-text">"Important, navette gratuite au départ du village pour se rendre à la plage, juste pour vous (service disponible
-          en juillet/août)"</p>
+          en vacances scolaires)"</p>
         <footer class="blockquote-footer">
           <small class="text-muted text-auteur">
             Fred., Directeur.
@@ -83,18 +83,18 @@
         <div class="card-body">
           <h5 class="card-title couleur-titre-card">Pour les grands</h5>
           <p class="card-text">
-            <strong>A vous de choisir le thème de vos vacances ?</strong> farniente, découverte, sports ou tous à la fois, c'est
+            <strong>A vous de choisir le thème de vos vacances ?</strong> Farniente, découverte, sports ou tout à la fois, c'est
             possible : baignade (piscine ou mer),volley, pétanque, tir à l'arc, ping-pong, tennis, aquagym, balades découverte
-            avec notre animateur, sortie VTT encadrée (on peut vous prêter les VTT), plongée sous marine, mini-golf, kayak,
-            école de voile .</p>
+            avec notre animateur, sortie VTT encadrée, plongée sous marine, mini-golf, kayak,
+            école de voile.</p>
         </div>
       </div>
       <div class="card">
-        <img class="card-img-top" src="img/219x200_village-vacances-la-manne-activites-seniors.jpg" alt="Card image cap">
+        <img class="card-img-top" src="img/219x200_village-vacances-la-manne-activites-seniors2.jpg" alt="Card image cap">
         <div class="card-body">
           <h5 class="card-title couleur-titre-card">Les seniors</h5>
           <p class="card-text">Profiter du bien-être du
-            <strong>village-club La Manne</strong> pour recharger les batteries et laissez le temps au temps ! Vous pouvez préférer des périodes où l'affluence est moindre et vous organiser un programme sur-mesure : du zen, du repos, des découvertes, des rencontres et des activités coome l'initiation à la peinture, la gym douce, la pétanque, la danse de salon,
+            <strong>village-club La Manne</strong> pour recharger les batteries et laissez le temps au temps ! Vous pouvez préférer des périodes où l'affluence est moindre et vous organiser un programme sur-mesure : du zen, du repos, des découvertes, des rencontres et des activités comme l'initiation à la peinture, la gym douce, la pétanque, la danse de salon,
             ... .</p>
         </div>
       </div>
