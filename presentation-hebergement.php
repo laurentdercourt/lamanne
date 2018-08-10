@@ -29,7 +29,6 @@
 	<div class="container-fluid">
 
 
-
 		<div class="row">
 			<!-- photo plein pot  -->
 			<div class="col-md-12 phototitre padding0">
@@ -45,8 +44,6 @@
 				</div>
 			</div>
 		</div>
-
-
 		<div class="row">
 			<!-- body -->
 			<div class="col-sm-12 col-md-6 body-paragraphe">
@@ -54,14 +51,16 @@
 					</br>Bienvenue dans votre domaine privé,
 					</<strong>en pleine nature,</br>au calme !</strong>
 					<h3>Notre formule bungalow en pension complète</h3>
-				</br> Blottie dans les lauriers roses, à l'abri du soleil du Var,
+					</br> Blottie dans les lauriers roses, à l'abri du soleil du Var,
 					<strong>votre chambre sera le lieu dédié à votre repos</strong> et votre terrasse privative sera celui de la fin de journée,
 					juste après la plage, au moment où le sable vous gratte encore un peu les doigts de pied.</br>Un peu à la manière d'une
-					loggia, originale et dépaysante, vous serez un peu dedans et un peu dehors grâce
-					à la baie vitrée servant d'accès. Bienvenue dans votre cocon aux senteurs provençales, vous serez bercé par le chant des cigales !</strong></p>
-					<h3>Location de gîtes provençaux</h3>
-					</br>Vous pouvez louer une
-					<a href="presentation-maisonnette.php" style="color:#ef476f" class="liensousmenu">maisonnette</a>. A la manière d'un gite, ce type de location est idéale pour les grandes familles et les tribus. Avec ce type d'hébergement, vous êtres libre d'organiser vos vacances comme bon vous semble.
+					loggia, originale et dépaysante, vous serez un peu dedans et un peu dehors grâce à la baie vitrée servant d'accès. Bienvenue
+					dans votre cocon aux senteurs provençales, vous serez bercé par le chant des cigales !</strong>
+				</p>
+				<h3>Location de gîtes provençaux</h3>
+				</br>Vous pouvez louer une
+				<a href="presentation-maisonnette.php" style="color:#ef476f" class="liensousmenu">maisonnette</a>. A la manière d'un gite, ce type de location est idéale pour les grandes familles et les tribus. Avec
+				ce type d'hébergement, vous êtres libre d'organiser vos vacances comme bon vous semble.
 			</div>
 			<!-- photo body -->
 			<div class="col-sm-12 col-md-6 photo-body content">
@@ -77,22 +76,12 @@
 				<img class="img-responsive" style="width:100%" src="img/1900x500_village-vacances-la-manne-location-de-vacances-var-provence.jpg">
 			</div>
 		</div>
-	</div>
-	<div class="row">
-		<!-- body -->
-		<div class="col-12 col-md-6 body-paragraphe">
-			</br><h4 style="text-align:center;padding-bottom:20px">Descriptif de votre bungalow en pension complète</h4>
-			<ul class="bulletpoint">
-				<li>Chambre pour 2 personnes ou
-					<strong>familiale</strong> pour 6 personnes,</li>
-				<li>Extérieur : terrasse privée, pergola, mobilier de jardin,</li>
-				<li>Intérieur : salle d'eau comprenant 1 douche, 1 lavabo, 1 WC, lits simples,</li>
-				<li>Services inclus : linge de lit et de toilette fourni,
-					<strong>lits faits à l'arrivée</strong>.</li>
-		
+
 		<div class="row">
-			<div class="col-12">
-				</br><h4 style="text-align:center;padding-bottom:15px">Descriptif de votre maisonnette</h4>
+			<!-- body -->
+			<div class="col-12 col-md-6 body-paragraphe">
+				</br>
+				<h4 style="text-align:center;padding-bottom:20px">Descriptif de votre bungalow en pension complète</h4>
 				<ul class="bulletpoint">
 					<li>Chambre pour 2 personnes ou
 						<strong>familiale</strong> pour 6 personnes,</li>
@@ -100,36 +89,43 @@
 					<li>Intérieur : salle d'eau comprenant 1 douche, 1 lavabo, 1 WC, lits simples,</li>
 					<li>Services inclus : linge de lit et de toilette fourni,
 						<strong>lits faits à l'arrivée</strong>.</li>
+
+					<div class="row">
+						<div class="col-12">
+							</br>
+							<h4 style="text-align:center;padding-bottom:15px">Descriptif de votre maisonnette</h4>
+							<ul class="bulletpoint">
+								<li>Chambre pour 2 personnes ou
+									<strong>familiale</strong> pour 6 personnes,</li>
+								<li>Extérieur : terrasse privée, pergola, mobilier de jardin,</li>
+								<li>Intérieur : salle d'eau comprenant 1 douche, 1 lavabo, 1 WC, lits simples,</li>
+								<li>Services inclus : linge de lit et de toilette fourni,
+									<strong>lits faits à l'arrivée</strong>.</li>
+						</div>
+					</div>
+			</div>
+			<!-- photo body -->
+			<div class="col-12 col-md-6 photo-body content ">
+				<img class="text-center" style="width:90%" src="img/village-vacances-chambre-location-mer-sud-odeur.jpg">
 			</div>
 		</div>
-		</div>
-		<!-- photo body -->
-		<div class="col-12 col-md-6 photo-body content ">
-			<img class="text-center" style="width:90%" src="img/village-vacances-chambre-location-mer-sud-odeur.jpg">
-		</div>
-	</div>
 
 
-	<div class="row">
-		<!-- 2ème photo plein pot -->
-		<div class="col-12 padding0">
-			<img class="img-responsive" style="width:100%" src="img/1900x600_village-vacances-la-manne-soleil-chambre-location-var.jpg">
+		<div class="row">
+			<!-- 2ème photo plein pot -->
+			<div class="col-12 padding0">
+				<img class="img-responsive" style="width:100%" src="img/1900x600_village-vacances-la-manne-soleil-chambre-location-var.jpg">
+			</div>
 		</div>
-	</div>
+
 	</div>
 
 
 
 	<!-- SCRIPT -->
-	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-	   crossorigin="anonymous"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
-	   crossorigin="anonymous"></script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em"
-	   crossorigin="anonymous"></script>
-	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-	   crossorigin="anonymous"></script>
-	<script type="text/javascript" src="js/menu-photo-hoover.js"></script>
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 	<!--  -->
 
 </body>

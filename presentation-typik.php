@@ -14,7 +14,7 @@
 	   crossorigin="anonymous">
 	<!-- mon CSS -->
 	<link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
-	<link rel="stylesheet" type="text/css" media="screen" href="css/presentation-scene.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="css/presentation-typik.css" />
 	<!-- typo roboto avec ttes les graisses -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:100,400,700,900" rel="stylesheet">
 	<!-- icone font awesome -->
@@ -54,7 +54,7 @@
 			</div>
 			<!-- photo body -->
 			<div class="col-sm-12 col-md-6 photo-body content">
-				<img class="img-responsive" style="width:90%" src="img/800x600_village-vacances-typik-atypique.jpg">
+				<img class="img-responsive" style="width:90%" src="img/village-vacances-var-location-gite-la-manne-soleil-typik-vin-rose.jpg">
 			</div>
 		</div>
 
@@ -63,7 +63,7 @@
 		<div class="row">
 			<!-- 2ème photo plein pot -->
 			<div class="col-12 padding0">
-				<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-spectacle-show-touristra.jpg">
+				<img class="img-responsive" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-soleil-typik-on-est-bien.jpg">
 			</div>
 		</div>
 	</div>
@@ -75,7 +75,7 @@
 		</div>
 		<!-- photo body -->
 		<div class="col-12 col-md-6 photo-body content ">
-			<img class="text-center" style="width:90%" src="img/village-vacances-la-manne-pot-accueil-var.jpg">
+			<img class="text-center" style="width:90%" src="img/village-vacances-var-location-gite-la-manne-soleil-typik-vin-rose-original.jpg">
 		</div>
 	</div>
 
@@ -83,7 +83,7 @@
 	<div class="row">
 		<!-- 2ème photo plein pot -->
 		<div class="col-12 padding0">
-			<img class="img-responsive" style="width:100%" src="img/village-vacances-spectacle-la-manne-famille.jpg">
+			<img class="img-responsive" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-soleil-typik-soiree-canape.jpg">
 		</div>
 	</div>
 	</div>

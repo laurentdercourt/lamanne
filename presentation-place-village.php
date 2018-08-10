@@ -66,7 +66,7 @@
 		<div class="row">
 			<!-- 2ème photo plein pot -->
 			<div class="col-12 padding0">
-				<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-bar-convivialite-var-soleil.jpg">
+				<img class="img-responsive" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-place-village-soiree-fun.jpg">
 			</div>
 		</div>
 	</div>

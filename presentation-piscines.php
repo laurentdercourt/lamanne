@@ -56,7 +56,7 @@
          
 			<!-- photo body -->
 			<div class="col-sm-12 col-md-6 photo-body content">
-				<img class="img-responsive" style="width:90%" src="img/village-vacances-fleur-parc-piscine-la-manne.jpg">
+				<img class="img-responsive" style="width:90%" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-piscine-farniente-enfant.jpg">
 			</div>
 		</div>
 
@@ -95,7 +95,7 @@
 	<div class="row">
 		<!-- 2ème photo plein pot -->
 		<div class="col-12 padding0">
-			<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-pataugeoire-piscine.jpg">
+			<img class="img-responsive" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-place-village-piscine-nuit.jpg">
 		</div>
 	</div>
 	</div>

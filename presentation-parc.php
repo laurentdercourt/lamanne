@@ -68,7 +68,7 @@
 		<div class="row">
 			<!-- 2ème photo plein pot -->
 			<div class="col-12 padding0">
-				<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-bosquet-nature-soleil-promenade.jpg">
+				<img class="img-responsive" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-palmier-fleurs.jpg">
 			</div>
 		</div>
 	</div>
@@ -96,7 +96,7 @@
 	<div class="row">
 		<!-- 2ème photo plein pot -->
 		<div class="col-12 padding0">
-			<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-palmier-nature.jpg">
+			<img class="img-responsive" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-palmier.jpg">
 		</div>
 	</div>
 	</div>

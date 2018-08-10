@@ -16,7 +16,7 @@ $("#photomenu2").hover(function () {
 
    }).html('<a class="lienphotomenu" href="vacances-en-famille.php">Passez des vacances en famille</a>');
 }, function () {
-   $(this).css('background-image','url(img/village-vacances-la-manne-vacances-en-famille.jpg)').html("");
+   $(this).css('background-image','url(img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-piscine-activites-familles.jpg)').html("");
 });
 
 $("#photomenu3").hover(function () {
@@ -26,7 +26,7 @@ $("#photomenu3").hover(function () {
 
    }).html('<a class="lienphotomenu" href="presentation-maisonnette.php">Louez une maisonnette</a>');
 }, function () {
-   $(this).css('background-image','url(img/635x555_village-vacances-la-manne-gite-maisonnette-soleil-var.jpg)').html("");
+   $(this).css('background-image','url(img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-piscine-location-maisonnette-gite.jpg)').html("");
 });
 
 $("#photomenu4").hover(function () {
@@ -34,9 +34,9 @@ $("#photomenu4").hover(function () {
       'background-image': 'url(img/red.jpeg)',
 
 
-   }).html('<a class="lienphotomenu" href="presentation-des-environs.php">Savourez !</br>vous êtes en pleine nature</a>');
+   }).html('<a class="lienphotomenu" href="presentation-des-environs.php">Savourez !</br>vous êtes en Provence</a>');
 }, function () {
-   $(this).css('background-image','url(img/village-vacances-la-manne-nature-farniente-soleil.jpg)').html("");
+   $(this).css('background-image','url(img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-piscine-location-provence-cote-azur-palmier-soleil.jpg)').html("");
 });
 
 $("#photomenu5").hover(function () {

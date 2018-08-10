@@ -86,7 +86,7 @@
 		</div>
 		<!-- photo body -->
 		<div class="col-12 col-md-6 photo-body content ">
-			<img class="text-center" style="width:90%" src="img/village-vacances-restaurant-la-manne-var.jpg">
+			<img class="text-center" style="width:90%" src="img/village-vacances-var-location-gite-la-manne-restaurant-la-nuit.jpg">
 		</div>
 	</div>
 

@@ -57,7 +57,7 @@
    </div>
    <!-- photo body -->
    <div class="col-sm-12 col-md-6 photo-body content">
-      <img class="img-responsive" style="width:90%" src="img/800x600_village-vacances-la-manne-gite-maisonnette-var-provence-soleil.jpg">
+      <img class="img-responsive" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-piscine-location-provence-gite-maisonnette-soleil-cocon-touristra.jpg">
    </div>
 </div>
 
@@ -66,7 +66,7 @@
 <div class="row">
    <!-- 2ème photo plein pot -->
    <div class="col-12 padding0">
-      <img class="img-responsive" style="width:100%" src="img/1900x500_village-vacances-la-manne-gite-maisonnette-soleil.jpg">
+      <img class="img-responsive" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-piscine-location-provence-gite-maisonnette-soleil.jpg">
    </div>
 </div>
 </div>
@@ -85,7 +85,7 @@
 </div>
 <!-- photo body -->
 <div class="col-12 col-md-6 photo-body content ">
-   <img class="text-center" style="width:90%" src="img/800x600_village-vacances-la-manne-gite-maisonnette-var-provence-soleil.jpg">
+   <img class="text-center" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-piscine-location-provence-gite-maisonnette-soleil-cocon.jpg">
 </div>
 </div>
 
@@ -93,7 +93,7 @@
 <div class="row">
 <!-- 2ème photo plein pot -->
 <div class="col-12 padding0">
-   <img class="img-responsive" style="width:100%" src="img/1900x500_village-vacances-la-manne-gite-maisonnette-pinede-arbore.jpg">
+   <img class="img-responsive" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-piscine-location-provence-gite-maisonnette-soleil-soleil.jpg">
 </div>
 </div>
 </div>

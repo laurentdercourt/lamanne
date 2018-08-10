@@ -23,10 +23,15 @@
 
 <body>
       <div class="container-fluid">
+            <div class="row">
+                  <div class="col-12 bandeau-groupe">
+                        Vous êtes un groupe ? Vous préparez une cousinade ou un séminaire ? <a class="lien-devis" href="contact.php">Cliquez-ici pour obtenir un devis sur-mesure</a>
+                  </div>      
+            </div>
 
             <nav>
                   <div class="row">
-                        <div class="col-lg-2 col-md-12">
+                        <div class="col-lg-2 col-md-12 paddingphoto">
                               <img src="img/logo_touristra.png">
                         </div>
                         <div class="col-lg-2 col-md-4 menu ligne">
