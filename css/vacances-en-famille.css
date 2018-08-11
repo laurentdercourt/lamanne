@@ -1,7 +1,6 @@
 
 .phototitre {
    margin-bottom: 15px;
-   margin-top:0px;
    background: url(../img/1900x500_villages-vacances-la-manne-activites-pour-tous.jpg)no-repeat center !important;
    height: 500px;
 }
@@ -27,13 +26,14 @@ letter-spacing: .1em;
    }
 }
 
-@media (max-width: 320px) {
-   .phototitre-titre {
-      
-      margin-top:140px !important;
-   }
+@media (max-width: 695px) {
+
 
    .taille-typo-h3{
       font-size: 22px !important;
+   }
+
+   .margintop{
+      margin-top:50px;
    }
 }

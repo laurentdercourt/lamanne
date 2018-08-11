@@ -33,31 +33,23 @@
 
 <div class="row">
    <!-- photo plein pot  -->
-   <div class="col-md-12 phototitre padding0">
+   <div class="col-md-12 phototitre margintop">
       <h2 class="phototitre-h2">Hébergement : les maisonnettes</h2>
       <h1 class="phototitre-h1">Location maison Var, location gîte Var | vacances Côte d’Azur, Provence</h1>
-      <div class="row">
-         <!--  titre photo -->
-         <div class="col-6 col-md-3 phototitre-titre">
-            <h3>Grande famille ou tribu, c'est pour vous !</h3>
-         </div>
-         <div class="col-6 col-md-9">
-         </div>
+      <h3 class="image_title">Grande famille ou tribu, c'est pour vous !</h3>
       </div>
-   </div>
 </div>
-
-
+     
 <div class="row">
    <!-- body -->
-   <div class="col-sm-12 col-md-6 body-paragraphe">
+   <div class="col-12 col-md-12 col-lg-6 body-paragraphe">
       <p></br><strong>Gite</strong> ou maisonnette, peu importe le nom, ce type de <strong>location</strong> à l'espace généreux sera idéal si vous souhaitez gérer votre séjour comme vous le souhaitez. En effet, vous avez la possibilité de préparer vos repas grâce à la cuisine équipée et les prendre à l'heure de votre choix.</br>Vous disposez d'un accès indépendant à cette partie du <strong>domaine arboré de La Manne.</strong></br></br>Les maisonnettes sont réservables dès le mois d'avril et jusqu'en octobre. L'été indien vous ouvre ses portes avec la possibilité de découvrir la <strong>région Provence Côte d'Auzr</strong> sous un nouvel éclairage !</br></br>Vous pouvez également louer une
 					<a href="presentation-hebergement.php" style="color:#ef476f" class="liensousmenu">chambre</a>.</p>
 
    </div>
    <!-- photo body -->
-   <div class="col-sm-12 col-md-6 photo-body content">
-      <img class="img-responsive" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-piscine-location-provence-gite-maisonnette-soleil-cocon-touristra.jpg">
+   <div class="col-12 col-md-12 col-lg-6 content">
+      <img class="img-fluid" style="width:105%" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-piscine-location-provence-gite-maisonnette-soleil-cocon-touristra.jpg">
    </div>
 </div>
 
@@ -65,14 +57,14 @@
 
 <div class="row">
    <!-- 2ème photo plein pot -->
-   <div class="col-12 padding0">
-      <img class="img-responsive" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-piscine-location-provence-gite-maisonnette-soleil.jpg">
+   <div class="col-12 photo-full-width">
+      <img class="img-fluid" style="width:105%" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-piscine-location-provence-gite-maisonnette-soleil.jpg">
    </div>
 </div>
 </div>
 <div class="row">
 <!-- body -->
-<div class="col-12 col-md-6 body-paragraphe">
+<div class="col-12 col-md-12 col-lg-6 body-paragraphe">
    </br><h4 style="text-align:center;padding-bottom:20px">Descriptif de votre location de vacances</h4>
    <ul class="bulletpoint">
       <li>Maisonnette pour 4 personnes : 36 m2 (chambre avec lit double et mezzanine 2 lits simples), pour 6 personnes : 42 m2 (chambre supplémentaire avec 2 lits superposés)</li>
@@ -84,16 +76,16 @@
    </ul>      
 </div>
 <!-- photo body -->
-<div class="col-12 col-md-6 photo-body content ">
-   <img class="text-center" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-piscine-location-provence-gite-maisonnette-soleil-cocon.jpg">
+<div class="col-12 col-md-12 col-lg-6 content ">
+   <img class="mg-fluid mx-auto" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-piscine-location-provence-gite-maisonnette-soleil-cocon.jpg">
 </div>
 </div>
 
 
 <div class="row">
 <!-- 2ème photo plein pot -->
-<div class="col-12 padding0">
-   <img class="img-responsive" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-piscine-location-provence-gite-maisonnette-soleil-soleil.jpg">
+<div class="col-12 photo-full-width">
+   <img class="img-fluid" style="width:105%" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-piscine-location-provence-gite-maisonnette-soleil-soleil.jpg">
 </div>
 </div>
 </div>

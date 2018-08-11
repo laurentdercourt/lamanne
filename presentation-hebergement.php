@@ -40,19 +40,15 @@
 		<div class="row">
 			<!-- body -->
 			<div class="col-12 col-md-12 col-lg-6 body-paragraphe">
-				<p>
-					
-					<h3 style="text-align:left">Notre formule bungalow en pension complète</h3>
-					Blottie dans les lauriers roses, à l'abri du soleil du Var,
+				<h3 style="text-align:left"></br>Notre formule bungalow en pension complète</h3>
+				<p>Blottie dans les lauriers roses, à l'abri du soleil du Var,
 					<strong>votre chambre sera le lieu dédié à votre repos</strong> et votre terrasse privative sera celui de la fin de journée,
 					juste après la plage, au moment où le sable vous gratte encore un peu les doigts de pied.</br>Un peu à la manière d'une
 					loggia, originale et dépaysante, vous serez un peu dedans et un peu dehors grâce à la baie vitrée servant d'accès. Bienvenue
-					dans votre cocon aux senteurs provençales, vous serez bercé par le chant des cigales !</strong>
-				</p>
+					dans votre cocon aux senteurs provençales, vous serez bercé par le chant des cigales !</strong></p>
 				<h3 style="text-align:left">Location de gîtes provençaux</h3>
-				Vous pouvez louer une
-				<a href="presentation-maisonnette.php" style="color:#ef476f" class="liensousmenu">maisonnette</a>. A la manière d'un gite, ce type de location est idéale pour les grandes familles et les tribus. Avec
-				ce type d'hébergement, vous êtres libre d'organiser vos vacances comme bon vous semble.
+				<p>Vous pouvez louer une <a href="presentation-maisonnette.php" style="color:#ef476f" class="liensousmenu">maisonnette</a>. A la manière d'un gite, ce type de location est idéale pour les grandes familles et les tribus. Avec
+				ce type d'hébergement, vous êtres libre d'organiser vos vacances comme bon vous semble.</p>
 			</div>
 			<!-- photo body -->
 			<div class="col-12 col-md-12 col-lg-6 content">
@@ -65,7 +61,7 @@
 		<div class="row">
 			<!-- 2ème photo plein pot -->
 			<div class="col-12 photo-full-width">
-				<img class="img-fluid" style="width:105%" src="img/1900x500_village-vacances-la-manne-location-de-vacances-var-provence.jpg">
+				<img class="img-fluid width102" style="width:105%" src="img/1900x500_village-vacances-la-manne-location-de-vacances-var-provence.jpg">
 			</div>
 		</div>
 

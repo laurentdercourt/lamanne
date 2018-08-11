@@ -26,19 +26,27 @@ body {
    text-decoration: none;
    color:#ffc43d !important;
    font-weight: 400;
+   -moz-appearance-color:white!important;
 }
 
 .lien:visited {
-   color: white;
+   color: white !important;
+   -moz-appearance-color:white!important;
 }
+
+
+
+
 
 .lrouge:visited {
    color:white !important;
+   -moz-appearance-color:white!important;
 }
 
 .lrouge:hover{
    text-decoration: none;
    color:#ffc43d !important;
+   -moz-appearance-color:#ffc43d !important;
 }
 
 .lien-devis:hover {
@@ -46,6 +54,7 @@ body {
    color:#7bdff2;
    font-weight: 700;
    font-size:15px;
+   -moz-appearance-color:#7bdff2!important;
 }
 
 .lien-devis:visited {
@@ -110,11 +119,13 @@ body {
 .lienphotomenu:hover {
    text-decoration: none !important;
    color:white!important;
+   -moz-appearance-color:white!important;
 
 }
 
 .lienphotomenu:visited{
    color:white !important;
+   -moz-appearance-color:white!important;
 }
 
 

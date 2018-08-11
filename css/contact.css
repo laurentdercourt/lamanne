@@ -7,7 +7,7 @@ body {
    font-weight: 700;
    letter-spacing: .8px;
    font-size: 3.3em;
-   line-height: 60px;
+   line-height: 45px;
    text-align: right;
    margin-top:40px !important;
 }
@@ -115,6 +115,14 @@ input[type=checkbox], input[type=radio] {
 
 }
 
-.padding0 {
-padding:0 0 0 0 !important;
+@media (max-width: 695px) {
+
+
+   .taille-typo-h3{
+      font-size: 22px !important;
+   }
+
+   .margintop{
+      margin-top:50px;
+   }
 }

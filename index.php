@@ -47,10 +47,10 @@
                               <a class="rubrique lien" href="#">Accueil groupe</a>
                         </div>
                         <div class="col-lg-1 col-md-4 col-6 menu ligne">
-                            <a target="_blank" href="https://www.facebook.com/Touristralamanne/?ref=bookmarks" class="lien"><i class="fab fa-facebook"></i></a>
+                            <a target="_blank" href="https://www.facebook.com/Touristralamanne/?ref=bookmarks" class="lien rubrique"><i class="fab fa-facebook"></i></a>
                         </div>
                         <div class="col-lg-1 col-md-4 col-6 menu ligne">
-                        <a target="_blank" href="https://www.instagram.com/lamanne_touristra/" class="lien"><i class="fab fa-instagram"></i></a>
+                        <a target="_blank" href="https://www.instagram.com/lamanne_touristra/" class="lien rubrique"><i class="fab fa-instagram"></i></a>
 
                         </div>
                   </div>

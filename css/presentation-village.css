@@ -5,8 +5,17 @@ body {
 
 .photo-full-width{
    padding-left:0;
+   padding-right:0;
 }
 
+p{
+   line-height: 25px;
+   font-size:18px;
+}
+
+.width102{
+   width:102% !important;
+}
 
 .image_title {
    background: rgba(0, 0, 0, 0.5);
@@ -98,6 +107,8 @@ body {
    display: flex;
    align-items: center;
    flex-wrap: wrap;
+   margin-bottom:10px;
+   margin-top: 10px;
 
 }
 
@@ -105,10 +116,6 @@ body {
    .phototitre-titre {
       font-size: 27px;
       line-height: 30px;
-   }
-
-   .content{
-      margin-bottom:10px;
    }
 
 }

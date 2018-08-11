@@ -31,7 +31,7 @@
 
     <div class="row">
       <!-- photo plein pot  -->
-      <div class="col-md-12 phototitre padding0">
+      <div class="col-md-12 phototitre margintop">
         <h2 class="phototitre-h2">De la convivialité et des activités pour tous !</h2>
         <h1 class="phototitre-h1">Vacances en famille | location de Vars | l’été au soleil | Var, Côte d’Azur, Provence, France</h1>
       </div>

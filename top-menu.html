@@ -7,15 +7,9 @@
 <!-- </head> -->
 
 
-   <div class="top-menu">
-      <a href="index.php" class="lien">Accueil</a>
-      <hr class="hr-top-menu">
-      <p class="rubrique">actualités</p>
-      <hr class="hr-top-menu">
-      <a href="contact.php" class="lien">Contacts</a>
-      <hr class="hr-top-menu">
-      <a href="contact.php" class="lien">Réservez</a>
-   </div>
+   <a href="index.php"><button type="button" class="btn btn-default btn-circle btn-xl"><i style="color:#1c8598" class="fas fa-home"></i></button></a>
+
+
 
 <style>
   /* 
@@ -24,71 +18,23 @@ regular :
 
 */
 
-.top-menu{
-   z-index: 1;
-   display: block;
-   position:fixed;
-   right : 30px;
-   background-color: #ef476f;
-   color:white;
-   font-family: 'Roboto', sans-serif;
-   font-size:15px;
-   font-weight: 300;
-   width:100px;
-   height: 120px;
-   text-align:center;
-   top:0px;
-   margin:0;
-   padding-top: 13px;
-   line-height: 10px !important;
-   letter-spacing: 1px;
+.btn-circle.btn-xl {
+  z-index: 1;
+  display: block;
+  position:fixed;
+  right : 30px;
+  width: 70px;
+  height: 70px;
+  font-size: 35px;
+  border-radius: 35px;
+  top:10px;
+  background-color:#ffc43d;
 }
 
-.hr-top-menu {
-   z-index: 1;
-   width: 85px;
-   text-align:center;
-   background-color:white;
-   height:1px;
-   border: none;
-   margin-top:5px;
-   margin-bottom: 5px;
-}
-
-.rubrique{
-   /* z-index: 1; */
-   margin:0;
-   padding:0;
-}
-
-
-.lien:visited {
-   text-decoration: none;
-   color:white;
-   pointer-events: visible;
-}
-
-.lien:hover {
-   text-decoration: none;
-   color:white;
-   pointer-events: visible;
-}
-
-.circle{
-   border-radius: 100px;
-}
-
-/* MEDIA QUERIES */
-@media (max-width: 425px) {
-
-   .top-menu{
-      width:100%;
-      position: fixed;
-      right:0;
-      position: relative;
-   }
-
-
+@media (max-width: 695px) {
+  .btn-circle.btn-xl {
+    border: 5px solid white;
+    right:43px;
 
 
 }

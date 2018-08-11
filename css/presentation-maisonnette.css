@@ -6,27 +6,14 @@
 }
 
 
-@media (max-width:768px) {
-   .phototitre-titre {
-      margin-top: 174px !important;
-      height:146px;
-   }
-}
+@media (max-width: 695px) {
 
-@media (max-width: 375px) {
-   .phototitre-titre {
-      margin-top:118px !important;
-      height:146px;
-   }
 
    .taille-typo-h3{
       font-size: 22px !important;
    }
-}
 
-@media (max-width: 425px) {
-   .phototitre-titre {
-      margin-top:174px !important;
-      height:122px;
+   .margintop{
+      margin-top:50px;
    }
 }
