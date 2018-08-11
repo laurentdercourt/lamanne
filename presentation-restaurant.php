@@ -29,39 +29,28 @@
 
 	<div class="container-fluid">
 
-		
-
+	
 		<div class="row">
 			<!-- photo plein pot  -->
-			<div class="col-md-12 phototitre padding0">
+			<div class="col-md-12 phototitre">
 				<h2 class="phototitre-h2">L'espace restauration</h2>
 				<h1 class="phototitre-h1">Location vacances, village vacances au soleil | Var Bormes Les Mimosas La Manne</h1>
-				<div class="row">
-					<!--  titre photo -->
-					<div class="col-6 col-md-3 phototitre-titre">
-						<h3 class="taille-typo-h3">Vous êtes gourmet ?</br>Nous aussi</h3>
-					</div>
-					<div class="col-6 col-md-9">
-					</div>
+				<h3 class="image_title">Vous êtes gourmet ? Nous aussi !</h3>
 				</div>
-			</div>
 		</div>
 
 
 		<div class="row">
 			<!-- body -->
-			<div class="col-sm-12 col-md-6 body-paragraphe">
+			<div class="col-12 col-md-12 col-lg-6 body-paragraphe">
             <p></br>Ce sera forcément un de vos lieux préférés car oui, dans notre <strong>village de vacances</strong>, on aime à se rendre dans cet espace pour se restaurer.</br>
             Le petit-déjeuner se prend sous les toiles colorées pour éviter les clins d'oeil du soleil, déjeuner et dîner à l'intérieur, bien ventilé grâce aux très grandes fenêtres.</br>Tout est en place pour varier les <strong>saveurs</strong> tout au long de votre séjour. <strong>Parfums provençaux</strong> où grillades et huile d'olive font bon ménage, il arrive parfois de croiser des spécialités montagnardes ou ch'ti selon les humeurs du chef de cuisine, Aïe ! Mais ce n'est que du plaisir, digne de ce que doivent être des <strong>vacances à la mer</strong> en version (parfois) dépaysante.</br></br>N'oublions pas non plus d'évoquer le bar du <strong>village club</strong>, sans aucun doute là où les parties de rigolade entre amis démarrent. <strong>En toute convialité</strong>, vous profiterez des sourires de l'équipe du bar et des cocktails maison, sans oublier la célèbre boisson anisée et de circonstance (à consommer avec modération).
-
-
-
             </p>
          </div>
          
 			<!-- photo body -->
-			<div class="col-sm-12 col-md-6 photo-body content">
-				<img class="img-responsive" style="width:90%" src="img/village-vacances-la-manne-var-buffet.jpg">
+			<div class="col-12 col-md-12 col-lg-6 content">
+				<img class="img-fluid mx-auto" src="img/village-vacances-la-manne-var-buffet.jpg">
 			</div>
 		</div>
 
@@ -69,14 +58,14 @@
 
 		<div class="row">
 			<!-- 2ème photo plein pot -->
-			<div class="col-12 padding0">
-				<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-bar-convivialite-var-soleil.jpg">
+			<div class="col-12 photo-full-width">
+				<img class="img-fluid image-width" src="img/village-vacances-la-manne-bar-convivialite-var-soleil.jpg">
 			</div>
 		</div>
 	</div>
 	<div class="row">
 		<!-- body -->
-		<div class="col-12 col-md-6 body-paragraphe">
+		<div class="col-12 col-md-12 col-lg-6 body-paragraphe">
 			</br><h4 style="text-align:center;padding-bottom:20px">Festival pour des gourmets en <strong>vacances</strong></h4>
 			<ul class="bulletpoint">
 				<li><strong>Restaurant avec terrasse ombragée</strong> et espace plancha,</li>
@@ -85,16 +74,16 @@
             <li>Bar au coeur de la place du village et proche des piscines.</li>
 		</div>
 		<!-- photo body -->
-		<div class="col-12 col-md-6 photo-body content ">
-			<img class="text-center" style="width:90%" src="img/village-vacances-var-location-gite-la-manne-restaurant-la-nuit.jpg">
+		<div class="col-12 col-md-12 col-lg-6 content ">
+			<img style="width:105%" class="img-fluid" src="img/village-vacances-var-location-gite-la-manne-restaurant-la-nuit.jpg">
 		</div>
 	</div>
 
 
 	<div class="row">
 		<!-- 2ème photo plein pot -->
-		<div class="col-12 padding0">
-			<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-a-table.jpg">
+		<div class="col-12 photo-full-width">
+			<img style="width:105%" class="img-fluid" src="img/village-vacances-la-manne-a-table.jpg">
 		</div>
 	</div>
 	</div>

@@ -36,27 +36,19 @@
 			<div class="col-md-12 phototitre padding0">
 				<h2 class="phototitre-h2">Le domaine</h2>
 				<h1 class="phototitre-h1">Location vacances, village vacances au soleil | Var Bormes Les Mimosas La Manne</h1>
-				<div class="row">
-					<!--  titre photo -->
-					<div class="col-6 col-md-3 phototitre-titre">
-						<h3 class="taille-typo-h3">Vos vacances en pleine nature</h3>
-					</div>
-					<div class="col-6 col-md-9">
-					</div>
+				<h3 class="image_title">Vos vacances en pleine nature</h3>
 				</div>
-			</div>
 		</div>
-
-
+				
 		<div class="row">
 			<!-- body -->
-			<div class="col-sm-12 col-md-6 body-paragraphe">
+			<div class="col-12 col-md-12 col-lg-6 body-paragraphe">
             <p></br>Parmis les nombreux atouts du <strong>village vacances La Manne</strong>, en dehors d'être baigné par le <strong>soleil</strong>, il y a d'abord celui d'être implanté en pleine nature où vos voisins seront bosquets de lauriers, chênes liège et pins maritimes.</br>11 hectares d'un <strong>domaine fleuri</strong> qui font de ce parc un endroit idyllique où vous pourrez  faire votre jooging matinal ! D'un côté, vous trouverez chambres et maisonnettes au calme, de l'autre, piscine, salle de spectacle, restaurant, tous les lieux de vie où vous aimerez vous retrouver pour fabriquer vos <strong>souvenirs de vacances</strong>.</br></br>Passez des <strong>vacances au village club La Manne</strong>, c'est assurément passer de très bons moments !
             </p>
          </div>
          
 			<!-- photo body -->
-			<div class="col-sm-12 col-md-6 photo-body content">
+			<div class="col-12 col-md-12 col-lg-6 content">
          <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="img/bebop.mp4"></iframe>
 </div>
@@ -67,14 +59,14 @@
 
 		<div class="row">
 			<!-- 2ème photo plein pot -->
-			<div class="col-12 padding0">
-				<img class="img-responsive" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-palmier-fleurs.jpg">
+			<div class="col-12 photo-full-width">
+				<img class="img-fluid" style="width:105%" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-palmier-fleurs.jpg">
 			</div>
 		</div>
 	</div>
 	<div class="row">
 		<!-- body -->
-		<div class="col-12 col-md-6 body-paragraphe">
+		<div class="col-12 col-md-12 col-lg-6 body-paragraphe">
 			</br><h4 style="text-align:center;padding-bottom:20px"><strong>Le parc recèle de nombreux endroits exclusifs</strong></h4>
 			<ul class="bulletpoint">
             <li>Le Typik</li>
@@ -85,7 +77,7 @@
 			</ul>
 		</div>
 		<!-- photo body -->
-		<div class="col-12 col-md-6 photo-body content ">
+		<div class="col-12 col-md-12 col-lg-6 content ">
       <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="img/bebop.mp4"></iframe>
 </div>
@@ -95,8 +87,8 @@
 
 	<div class="row">
 		<!-- 2ème photo plein pot -->
-		<div class="col-12 padding0">
-			<img class="img-responsive" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-palmier.jpg">
+		<div class="col-12 photo-full-width">
+			<img style="width:105%" class="img-fluid" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-palmier.jpg">
 		</div>
 	</div>
 	</div>

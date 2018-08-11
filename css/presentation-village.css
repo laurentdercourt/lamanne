@@ -1,9 +1,26 @@
+
 body {
    background-color: white !important;
 }
 
+.photo-full-width{
+   padding-left:0;
+}
+
+
+.image_title {
+   background: rgba(0, 0, 0, 0.5);
+   position: absolute;
+   left: 0;
+   bottom: -9px;
+   width: 100%;
+   padding-left: 10px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   color: white;
+}
+
 .phototitre {
-   margin-top: 136px;
    background: url(../img/1900x500_village-vacances-la-manne-location-de-vacances-var-provence2.jpg)no-repeat center;
    height: 500px;
 }
@@ -42,11 +59,10 @@ body {
 .body-paragraphe {
    margin-bottom: 10px;
    text-align: justify;
-   padding-left: 35px;
-   padding-right: 55px;
-   font-size: 23px;
+   font-size: 20px;
    font-weight: 100;
    line-height: 30px;
+
 }
 
 .photo-body {
@@ -54,12 +70,10 @@ body {
    margin-bottom: 2px;
 }
 
-.padding0 {
-   padding: 0;
-}
 
 .bulletpoint {
    list-style-type: disc;
+
 }
 
 .liensousmenu:hover {
@@ -71,9 +85,7 @@ body {
    color: black;
 }
 
-.padding20 {
-   padding-top: 20px;
-}
+
 
 @media (max-width:905px) {
    .phototitre-titre {
@@ -86,6 +98,7 @@ body {
    display: flex;
    align-items: center;
    flex-wrap: wrap;
+
 }
 
 @media (max-width:768px) {
@@ -93,9 +106,11 @@ body {
       font-size: 27px;
       line-height: 30px;
    }
-   .phototitre {
-      margin-top: 57px;
+
+   .content{
+      margin-bottom:10px;
    }
+
 }
 
 @media (max-width:562px) {
@@ -118,16 +133,3 @@ body {
    }
 }
 
-@media (min-width:1638px) {
-   .body {
-      padding-left: 130px;
-      padding-right: 130px;
-   }
-}
-
-@media (min-width:2000px) {
-   .body {
-      padding-left: 200px;
-      padding-right: 200px;
-   }
-}

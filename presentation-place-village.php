@@ -29,35 +29,26 @@
 
 	<div class="container-fluid">
 
-		
-
+	
 		<div class="row">
 			<!-- photo plein pot  -->
-			<div class="col-md-12 phototitre padding0">
+			<div class="col-md-12 phototitre">
 				<h2 class="phototitre-h2">La place du village</h2>
 				<h1 class="phototitre-h1">Location vacances, village vacances au soleil | Var Bormes Les Mimosas La Manne</h1>
-				<div class="row">
-					<!--  titre photo -->
-					<div class="col-6 col-md-3 phototitre-titre">
-						<h3 class="taille-typo-h3">C'est là que ça se passe</h3>
-					</div>
-					<div class="col-6 col-md-9">
-					</div>
+				<h3 class="image_title">C'est là que ça se passe</h3>
 				</div>
 			</div>
-		</div>
-
-
+				
 		<div class="row">
 			<!-- body -->
-			<div class="col-sm-12 col-md-6 body-paragraphe">
+			<div class="col-12 col-md-12 col-lg-6 body-paragraphe">
             <p></br>La place du village, c'est l'endroit à mémoriser, on s'y retrouve tous ensemble pour faire la fête ou profiter du soleil naissant devant un bon café ! Elle permet d'accéder au restaurant, au bar,<strong>aux soirées endiablées, </strong> sans oublier les jeux avant et après la pause déjeuner proposés par l'équipe d'animation.</br>La place du village borde également les <strong>piscines</strong> et n'est jamais très loin des terrains de sports (tennis, beach volley, pétanque.</br>Il fait bon de venir s'y asseoir pour se reposer et lire le journal ou profiter du <strong>WiFi</strong> pour consulter ses emails pour les plus accros d'entre vous.</br>Fermez les yeux, ça y est, vous y êtes dans cette <strong>belle région de provence</strong>, près de la <strong>mer mediterranée</strong>, en plein coeur du village vacances de La Manne. 
             </p>
          </div>
          
 			<!-- photo body -->
-			<div class="col-sm-12 col-md-6 photo-body content">
-				<img class="img-responsive" style="width:90%" src="img/village-vacances-la-manne-bar-piscine.jpg">
+			<div class="col-12 col-md-12 col-lg-6 content">
+				<img class="img-fluid mx-auto" src="img/village-vacances-la-manne-bar-piscine.jpg">
 			</div>
 		</div>
 
@@ -65,14 +56,14 @@
 
 		<div class="row">
 			<!-- 2ème photo plein pot -->
-			<div class="col-12 padding0">
-				<img class="img-responsive" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-place-village-soiree-fun.jpg">
+			<div class="col-12 photo-full-width">
+				<img class="img-fluid" style="width:105%" src="img/village-vacances-var-location-gite-la-manne-place-village-soiree-fun.jpg">
 			</div>
 		</div>
 	</div>
 	<div class="row">
 		<!-- body -->
-		<div class="col-12 col-md-6 body-paragraphe">
+		<div class="col-12 col-md-12 col-lg-6 body-paragraphe">
 			</br><h4 style="text-align:center;padding-bottom:20px">Rendez-vous sur la place du village </br><strong> pour accéder au(x):</strong></h4>
 			<ul class="bulletpoint">
             <li><strong>Piscines,</strong></li>
@@ -84,16 +75,16 @@
 				
 		</div>
 		<!-- photo body -->
-		<div class="col-12 col-md-6 photo-body content ">
-			<img class="text-center" style="width:90%" src="img/village-vacances-la-manne-place-village-aperitif-copains-amis.jpg">
+		<div class="col-12 col-md-12 col-lg-6 content ">
+			<img class="img-fluid mx-auto" src="img/village-vacances-la-manne-place-village-aperitif-copains-amis.jpg">
 		</div>
 	</div>
 
 
 	<div class="row">
 		<!-- 2ème photo plein pot -->
-		<div class="col-12 padding0">
-			<img class="img-responsive" style="width:100%" src="img/1900x600_village-vacances-la-manne-soiree-conviviale.jpg">
+		<div class="col-12 photo-full-width">
+			<img class="img-fluid" style="width:105%" src="img/1900x600_village-vacances-la-manne-soiree-conviviale.jpg">
 		</div>
 	</div>
 	</div>

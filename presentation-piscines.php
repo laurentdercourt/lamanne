@@ -32,31 +32,23 @@
 
 		<div class="row">
 			<!-- photo plein pot  -->
-			<div class="col-md-12 phototitre padding0">
+			<div class="col-md-12 phototitre">
 				<h2 class="phototitre-h2">Les piscines</h2>
 				<h1 class="phototitre-h1">Location vacances, village vacances au soleil | Var Bormes Les Mimosas La Manne</h1>
-				<div class="row">
-					<!--  titre photo -->
-					<div class="col-6 col-md-3 phototitre-titre">
-						<h3 class="taille-typo-h3">"Je veux une piscine !"</h3>
-					</div>
-					<div class="col-6 col-md-9">
-					</div>
+				<h3 class="image_title">"Je veux une piscine !"</h3>
 				</div>
-			</div>
 		</div>
-
-
+				
 		<div class="row">
 			<!-- body -->
-			<div class="col-sm-12 col-md-6 body-paragraphe">
+			<div class="col-12 col-md-12 col-lg-6 body-paragraphe">
             <p></br><strong>Pas une mais deux piscines privées</strong>, rien que pour vous, sans oublier les <strong>plages</strong> pour profiter des transats et parasols et être ainsi installé très confortablement. Bien entendu, le risque est grand que vous y passiez toute votre journée <strong>pour le plus grand bonheur de vos enfants.</strong></br></br><strong>Cet espace aquatique</strong> est également le terrain d'activités sportives dont notre maître nageur a le secret.</br>On ne vous cachera pas que la <strong>crème solaire</strong> est fortement recommandée car le <strong>soleil du Var</strong> est bien présent mais s'adoucit au contact de l'eau ! Bonne baignade !</br></br>A noter : votre <strong>location de vacances</strong> inclus l'accès illimité à <strong>l'espace aquatique</strong>.
             </p>
          </div>
          
 			<!-- photo body -->
-			<div class="col-sm-12 col-md-6 photo-body content">
-				<img class="img-responsive" style="width:90%" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-piscine-farniente-enfant.jpg">
+			<div class="col-12 col-md-12 col-lg-6 content">
+				<img class="img-fluid" style="width:105%" src="img/village-vacances-var-location-gite-la-manne-nature-parc-domaine-piscine-farniente-enfant.jpg">
 			</div>
 		</div>
 
@@ -64,14 +56,14 @@
 
 		<div class="row">
 			<!-- 2ème photo plein pot -->
-			<div class="col-12 padding0">
-				<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-piscine-espace-aquatique.jpg">
+			<div class="col-12 photo-full-width">
+				<img class="img-fluid" style="width:105%" src="img/village-vacances-la-manne-piscine-espace-aquatique.jpg">
 			</div>
 		</div>
 	</div>
 	<div class="row">
 		<!-- body -->
-		<div class="col-12 col-md-6 body-paragraphe">
+		<div class="col-12 col-md-12 col-lg-6 body-paragraphe">
 			</br><h4 style="text-align:center;padding-bottom:20px"><strong>Le grand bassin</strong></h4>
 			<ul class="bulletpoint">
             <li>25 x x m</li>
@@ -86,16 +78,16 @@
 			</ul>	
 		</div>
 		<!-- photo body -->
-		<div class="col-12 col-md-6 photo-body content ">
-			<img class="text-center" style="width:90%" src="img/village-vacances-la-manne-piscine-vue-haut.jpg">
+		<div class="col-12 col-md-12 col-lg-6 content ">
+			<img class="img-fluid mx-auto" src="img/village-vacances-la-manne-piscine-vue-haut.jpg">
 		</div>
 	</div>
 
 
 	<div class="row">
 		<!-- 2ème photo plein pot -->
-		<div class="col-12 padding0">
-			<img class="img-responsive" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-place-village-piscine-nuit.jpg">
+		<div class="col-12 photo-full-width">
+			<img class="img-fluid" style="width:105%" src="img/village-vacances-var-location-gite-la-manne-place-village-piscine-nuit.jpg">
 		</div>
 	</div>
 	</div>

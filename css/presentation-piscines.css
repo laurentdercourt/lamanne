@@ -1,25 +1,5 @@
 
 .phototitre {
-   margin-top: 136px;
    background: url(../img/village-vacances-piscine-piscine-var-soleil.jpg)no-repeat center !important;
    height: 500px;
-}
-
-
-@media (max-width:768px) {
-   .phototitre-titre {
-      margin-top: 200px !important;
-      height:120px;
-   }
-}
-
-@media (max-width: 320px) {
-   .phototitre-titre {
-      
-      margin-top:140px !important;
-   }
-
-   .taille-typo-h3{
-      font-size: 22px !important;
-   }
 }

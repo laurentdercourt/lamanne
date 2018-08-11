@@ -31,40 +31,32 @@
 
 		<div class="row">
 			<!-- photo plein pot  -->
-			<div class="col-md-12 phototitre padding0">
+			<div class="col-md-12 phototitre">
 				<h2 class="phototitre-h2">Hébergements : bungalow ou maisonnette</h2>
 				<h1 class="phototitre-h1">Location vacances, village vacances au soleil | Var Bormes Les Mimosas La Manne</h1>
-				<div class="row">
-					<!--  titre photo -->
-					<div class="col-6 col-md-3 phototitre-titre">
-						<h3>Nos hébergements</h3>
-					</div>
-					<div class="col-6 col-md-9">
-					</div>
-				</div>
+				<h3 class="image_title">Bienvenue dans votre domaine privé, en pleine nature et au calme</h3>
 			</div>
 		</div>
 		<div class="row">
 			<!-- body -->
-			<div class="col-sm-12 col-md-6 body-paragraphe">
+			<div class="col-12 col-md-12 col-lg-6 body-paragraphe">
 				<p>
-					</br>Bienvenue dans votre domaine privé,
-					</<strong>en pleine nature,</br>au calme !</strong>
-					<h3>Notre formule bungalow en pension complète</h3>
-					</br> Blottie dans les lauriers roses, à l'abri du soleil du Var,
+					
+					<h3 style="text-align:left">Notre formule bungalow en pension complète</h3>
+					Blottie dans les lauriers roses, à l'abri du soleil du Var,
 					<strong>votre chambre sera le lieu dédié à votre repos</strong> et votre terrasse privative sera celui de la fin de journée,
 					juste après la plage, au moment où le sable vous gratte encore un peu les doigts de pied.</br>Un peu à la manière d'une
 					loggia, originale et dépaysante, vous serez un peu dedans et un peu dehors grâce à la baie vitrée servant d'accès. Bienvenue
 					dans votre cocon aux senteurs provençales, vous serez bercé par le chant des cigales !</strong>
 				</p>
-				<h3>Location de gîtes provençaux</h3>
-				</br>Vous pouvez louer une
+				<h3 style="text-align:left">Location de gîtes provençaux</h3>
+				Vous pouvez louer une
 				<a href="presentation-maisonnette.php" style="color:#ef476f" class="liensousmenu">maisonnette</a>. A la manière d'un gite, ce type de location est idéale pour les grandes familles et les tribus. Avec
 				ce type d'hébergement, vous êtres libre d'organiser vos vacances comme bon vous semble.
 			</div>
 			<!-- photo body -->
-			<div class="col-sm-12 col-md-6 photo-body content">
-				<img class="img-responsive" style="width:90%" src="img/village-vacacances-la-manne-location-chambre-gite-var-provence.jpg">
+			<div class="col-12 col-md-12 col-lg-6 content">
+				<img class="img-fluid mx-auto" alt="Responsive image" src="img/village-vacacances-la-manne-location-chambre-gite-var-provence.jpg">
 			</div>
 		</div>
 
@@ -72,14 +64,14 @@
 
 		<div class="row">
 			<!-- 2ème photo plein pot -->
-			<div class="col-12 padding0">
-				<img class="img-responsive" style="width:100%" src="img/1900x500_village-vacances-la-manne-location-de-vacances-var-provence.jpg">
+			<div class="col-12 photo-full-width">
+				<img class="img-fluid" style="width:105%" src="img/1900x500_village-vacances-la-manne-location-de-vacances-var-provence.jpg">
 			</div>
 		</div>
 
 		<div class="row">
 			<!-- body -->
-			<div class="col-12 col-md-6 body-paragraphe">
+			<div class="col-12 col-md-12 col-lg-6 body-paragraphe">
 				</br>
 				<h4 style="text-align:center;padding-bottom:20px">Descriptif de votre bungalow en pension complète</h4>
 				<ul class="bulletpoint">
@@ -89,6 +81,7 @@
 					<li>Intérieur : salle d'eau comprenant 1 douche, 1 lavabo, 1 WC, lits simples,</li>
 					<li>Services inclus : linge de lit et de toilette fourni,
 						<strong>lits faits à l'arrivée</strong>.</li>
+				</ul>		
 
 					<div class="row">
 						<div class="col-12">
@@ -101,20 +94,21 @@
 								<li>Intérieur : salle d'eau comprenant 1 douche, 1 lavabo, 1 WC, lits simples,</li>
 								<li>Services inclus : linge de lit et de toilette fourni,
 									<strong>lits faits à l'arrivée</strong>.</li>
+							</ul>		
 						</div>
 					</div>
 			</div>
 			<!-- photo body -->
-			<div class="col-12 col-md-6 photo-body content ">
-				<img class="text-center" style="width:90%" src="img/village-vacances-chambre-location-mer-sud-odeur.jpg">
+			<div class="col-12 col-md-12 col-lg-6 content">
+				<img class="img-fluid mx-auto" src="img/village-vacances-chambre-location-mer-sud-odeur.jpg">
 			</div>
 		</div>
 
 
 		<div class="row">
 			<!-- 2ème photo plein pot -->
-			<div class="col-12 padding0">
-				<img class="img-responsive" style="width:100%" src="img/1900x600_village-vacances-la-manne-soleil-chambre-location-var.jpg">
+			<div class="col-12 photo-full-width">
+				<img style="width:105%" class="img-fluid" src="img/1900x600_village-vacances-la-manne-soleil-chambre-location-var.jpg">
 			</div>
 		</div>
 

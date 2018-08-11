@@ -14,6 +14,7 @@
 	   crossorigin="anonymous">
 	<!-- mon CSS -->
 	<link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="css/presentation-village.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="css/presentation-typik.css" />
 	<!-- typo roboto avec ttes les graisses -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:100,400,700,900" rel="stylesheet">
@@ -28,33 +29,23 @@
 
 	<div class="container-fluid">
 
-		
-
 		<div class="row">
 			<!-- photo plein pot  -->
-			<div class="col-md-12 phototitre padding0">
+			<div class="col-md-12 phototitre">
 				<h2 class="phototitre-h2">Un endroit très spécial à découvrir</h2>
 				<h1 class="phototitre-h1">Location vacances, village vacances au soleil | Var Bormes Les Mimosas La Manne</h1>
-				<div class="row">
-					<!--  titre photo -->
-					<div class="col-6 col-md-3 phototitre-titre">
-						<h3>Inspirant, respirez !</h3>
-					</div>
-					<div class="col-6 col-md-9">
-					</div>
+				<h3 class="image_title">Un lieu inspirant, allez-y !</h3>
 				</div>
-			</div>
 		</div>
-
-
+				
 		<div class="row">
 			<!-- body -->
-			<div class="col-sm-12 col-md-6 body-paragraphe">
+			<div class="col-12 col-md-12 col-lg-6 body-paragraphe">
 				<p></br>Décidemment, <strong>le village vacances La Manne</strong> est plein de surprises. L'ensemble du <strong>parc naturel</strong> accueille déjà de nombreux endroits mais celui-ci est un peu caché, bien à l'abris des arbres pour garder la fraicheur. Vous tomberez dessus en ayant pris soin de vous faire indiquer son emplacement. Franchissez la passerelle, pénétrez dans le <strong>Typik</strong> et nulle par ailleurs ! Ce lieu singulier à l'allure vintage sera vous séduire. Un passage durant votre séjour s'impose !</p>
 			</div>
 			<!-- photo body -->
-			<div class="col-sm-12 col-md-6 photo-body content">
-				<img class="img-responsive" style="width:90%" src="img/village-vacances-var-location-gite-la-manne-soleil-typik-vin-rose.jpg">
+			<div class="col-12 col-md-12 col-lg-6 content">
+				<img class="img-fluid mx-auto" src="img/village-vacances-var-location-gite-la-manne-soleil-typik-vin-rose.jpg">
 			</div>
 		</div>
 
@@ -62,28 +53,28 @@
 
 		<div class="row">
 			<!-- 2ème photo plein pot -->
-			<div class="col-12 padding0">
-				<img class="img-responsive" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-soleil-typik-on-est-bien.jpg">
+			<div class="col-12 photo-full-width">
+				<img class="img-fluid" style="width:105%" src="img/village-vacances-var-location-gite-la-manne-soleil-typik-on-est-bien.jpg">
 			</div>
 		</div>
 	</div>
 	<div class="row">
 		<!-- body -->
-		<div class="col-12 col-md-6 body-paragraphe">
+		<div class="col-12 col-md-12 col-lg-6 body-paragraphe">
 			</br><h4 style="text-align:center;padding-bottom:20px"><strong>Venez savourer</strong></h4>
 			<p>Dégustations de différents vins rosés de provence, planches de charcuteries ou de fromages (au choix), bonnes bouteilles, des mets raffinés, des amis, c'est parti pour une soirée propice à refaire le monde !</p> 
 		</div>
 		<!-- photo body -->
-		<div class="col-12 col-md-6 photo-body content ">
-			<img class="text-center" style="width:90%" src="img/village-vacances-var-location-gite-la-manne-soleil-typik-vin-rose-original.jpg">
+		<div class="col-12 col-md-12 col-lg-6 content ">
+			<img class="img-fluid mx-auto" src="img/village-vacances-var-location-gite-la-manne-soleil-typik-vin-rose-original.jpg">
 		</div>
 	</div>
 
 
 	<div class="row">
 		<!-- 2ème photo plein pot -->
-		<div class="col-12 padding0">
-			<img class="img-responsive" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-soleil-typik-soiree-canape.jpg">
+		<div class="col-12 photo-full-width">
+			<img class="img-fluid" style="width:105%" src="img/village-vacances-var-location-gite-la-manne-soleil-typik-soiree-canape.jpg">
 		</div>
 	</div>
 	</div>

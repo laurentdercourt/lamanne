@@ -14,7 +14,9 @@
 	   crossorigin="anonymous">
 	<!-- mon CSS -->
 	<link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="css/presentation-village.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="css/presentation-scene.css" />
+
 	<!-- typo roboto avec ttes les graisses -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:100,400,700,900" rel="stylesheet">
 	<!-- icone font awesome -->
@@ -35,28 +37,20 @@
 			<div class="col-md-12 phototitre padding0">
 				<h2 class="phototitre-h2">La grande scène extérieure, the place to be !</h2>
 				<h1 class="phototitre-h1">Location vacances, village vacances au soleil | Var Bormes Les Mimosas La Manne</h1>
-				<div class="row">
-					<!--  titre photo -->
-					<div class="col-6 col-md-3 phototitre-titre">
-						<h3>Soirées animées !</h3>
-					</div>
-					<div class="col-6 col-md-9">
-					</div>
+				<h3 class="image_title">Soirées animées !</h3>
 				</div>
-			</div>
 		</div>
-
-
+				
 		<div class="row">
 			<!-- body -->
-			<div class="col-sm-12 col-md-6 body-paragraphe">
-				<p></br>La grande scène extérieure est dédiée à l'ensemble des spectacles quotidiens joués par l'équipe du <strong>village club de La Manne !</strong> Vous serez séduit par la qualité des shows, plein d'humour et d'interactivité ! Cabaret, radio-crochet, one-man show, théatre, ... Il y a de quoi passer, sans aucun doute, de belles soirées. Du plongeur au directeur, toute l'équipe est sur scène, vous aurez parfois quelques difficultés à les reconnaître ! Chapeau l'artiste !
+			<div class="col-12 col-md-12 col-lg-6 body-paragraphe">
+				<p></br>L'amphithéâtre est dédiée à l'ensemble des spectacles quotidiens joués par l'équipe du <strong>village club de La Manne !</strong> Vous serez séduit par la qualité des shows, plein d'humour et d'interactivité ! Cabaret, radio-crochet, one-man show, théatre, ... Il y a de quoi passer, sans aucun doute, de belles soirées. Du plongeur au directeur, toute l'équipe est sur scène, vous aurez parfois quelques difficultés à les reconnaître ! Chapeau l'artiste !
 					</br>
 					<a target="_blank" href="http://villagevacanceslamanne.blogspot.com/" style="color:#ef476f" class="liensousmenu"></strong>le blog du village vacances La Manne</strong></a> dévoilent souvent les coulisses des spectacles, n'hésitez pas à le consulter. </p>
 			</div>
 			<!-- photo body -->
-			<div class="col-sm-12 col-md-6 photo-body content">
-				<img class="img-responsive" style="width:90%" src="img/village-vacances-var-location-gite-la-manne-spectacle-humour.jpg">
+			<div class="col-12 col-md-12 col-lg-6 content">
+				<img class="img-fluid mx-auto" src="img/village-vacances-var-location-gite-la-manne-spectacle-humour.jpg">
 			</div>
 		</div>
 
@@ -64,28 +58,28 @@
 
 		<div class="row">
 			<!-- 2ème photo plein pot -->
-			<div class="col-12 padding0">
-				<img class="img-responsive" style="width:100%" src="img/village-vacances-la-manne-spectacle-show-touristra.jpg">
+			<div class="col-12 photo-full-width">
+				<img class="img-fluid" style="width:105%" src="img/village-vacances-la-manne-spectacle-show-touristra.jpg">
 			</div>
 		</div>
 	</div>
 	<div class="row">
 		<!-- body -->
-		<div class="col-12 col-md-6 body-paragraphe">
+		<div class="col-12 col-md-12 col-lg-6 body-paragraphe">
 			</br><h4 style="text-align:center;padding-bottom:20px"><strong>Demandez le programme !</strong></h4>
 			<p>Votre programme hebdomadaire est le document à avoir pour ne rien louper ! L'équipe du <strong>village vacances La Manne</strong> vous donne rendez-vous chaque <strong>dimanche à 11h</strong> pour tout vous dire. Rendez-vous sur les gradins de l'amphithéâtre. Un rafraichissement vous sera ensuite offert sur la place du village. <strong>Soyez heureux, vous êtes en vacances !</strong></p>
 		</div>
 		<!-- photo body -->
-		<div class="col-12 col-md-6 photo-body content ">
-			<img class="text-center" style="width:90%" src="img/village-vacances-la-manne-pot-accueil-var.jpg">
+		<div class="col-12 col-md-12 col-lg-6 content ">
+			<img class="img-fluid mx-auto" src="img/village-vacances-la-manne-pot-accueil-var.jpg">
 		</div>
 	</div>
 
 
 	<div class="row">
 		<!-- 2ème photo plein pot -->
-		<div class="col-12 padding0">
-			<img class="img-responsive" style="width:100%" src="img/village-vacances-var-location-gite-la-manne-spectacle-equipe.jpg">
+		<div class="col-12 photo-full-width">
+			<img class="img-fluid" style="width:105%" src="img/village-vacances-var-location-gite-la-manne-spectacle-equipe.jpg">
 		</div>
 	</div>
 	</div>
